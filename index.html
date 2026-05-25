@@ -1,0 +1,288 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>CrossDesk 跨境客服 AI 工作台</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app">
+      <div class="windowbar">
+        <div class="traffic" aria-hidden="true"><span class="dot red"></span><span class="dot yellow"></span><span class="dot green"></span></div>
+        <div class="titlebar-center">CrossDesk · Workspace / local</div>
+        <div class="sync"><span class="pill blue" id="syncState">本地工作区</span><span class="mono" id="clockText">--:--:--</span></div>
+      </div>
+
+      <aside class="sidebar">
+        <div class="brand">
+          <div class="logo">C</div>
+          <div><strong>CrossDesk</strong><span>本机隔离浏览器工作台</span></div>
+        </div>
+        <nav class="nav" id="nav" aria-label="主导航">
+          <button class="active" type="button" data-view="overview"><span class="ico">⌘</span><span>总览</span></button>
+          <button type="button" data-view="inbox"><span class="ico">✉</span><span>会话中心</span></button>
+          <button type="button" data-view="browser"><span class="ico">▣</span><span>浏览器身份</span></button>
+          <button type="button" data-view="knowledge"><span class="ico">◫</span><span>知识库</span></button>
+          <button type="button" data-view="policy"><span class="ico">◎</span><span>AI 策略</span></button>
+          <button type="button" data-view="audit"><span class="ico">≣</span><span>审计日志</span></button>
+          <button type="button" data-view="settings"><span class="ico">⚙</span><span>设置</span></button>
+        </nav>
+        <div class="sidebar-section">
+          <h4>浏览器身份</h4>
+          <div id="sidebarStores"></div>
+          <button class="btn sidebar-btn" type="button" data-modal="browserProfileModal">创建身份</button>
+        </div>
+        <div class="sidebar-section">
+          <h4>隐私边界</h4>
+          <div class="progress"><span id="connectionProgress" style="width:0%"></span></div>
+          <p id="connectionSummary">尚未创建浏览器身份，不会收集任何平台账号或密钥。</p>
+        </div>
+      </aside>
+
+      <main class="main">
+        <header class="topbar">
+          <div class="page-title">
+            <h1 id="pageTitle">总览</h1>
+            <p id="pageSub">创建任意数量本机 Chrome 浏览器身份，用户在系统 Chrome 里安全登录账号。</p>
+          </div>
+          <div class="actions">
+            <label class="search" for="globalSearch">⌕ <input id="globalSearch" placeholder="搜索身份、知识、审计..." /></label>
+            <button class="btn" type="button" data-modal="identityModal">浏览器身份</button>
+            <button class="btn primary" type="button" data-modal="browserProfileModal">创建浏览器身份</button>
+          </div>
+        </header>
+
+        <section class="content">
+          <div class="view active" id="overview">
+            <div class="grid cols-4">
+              <div class="card metric"><div class="label">浏览器身份</div><div class="num mono" id="metricStores">0</div><div class="sub">用户可按需创建</div></div>
+              <div class="card metric"><div class="label">已打开身份</div><div class="num mono" id="metricConnections">0</div><div class="sub">独立 Chromium session</div></div>
+              <div class="card metric"><div class="label">真实知识资料</div><div class="num mono" id="metricKnowledge">0</div><div class="sub">来自文件或粘贴文本</div></div>
+              <div class="card metric"><div class="label">审计事件</div><div class="num mono" id="metricAudit">0</div><div class="sub">本地记录关键操作</div></div>
+            </div>
+            <div class="grid cols-2 overview-grid">
+              <div class="card pad">
+                <h3>使用路径</h3>
+                <table class="table">
+                  <tr><th>能力</th><th>状态</th><th>入口</th></tr>
+                  <tr><td>任意数量独立浏览器身份</td><td><span class="pill good">已实现</span></td><td><button class="btn" type="button" data-modal="browserProfileModal">创建身份</button></td></tr>
+                  <tr><td>Google / 平台后台真实登录</td><td><span class="pill good">系统 Chrome</span></td><td><button class="btn" type="button" data-view-jump="browser">浏览器身份</button></td></tr>
+                  <tr><td>账号密码与 Token 输入</td><td><span class="pill good">不收集</span></td><td><button class="btn" type="button" data-modal="privacyModal">查看边界</button></td></tr>
+                  <tr><td>知识库资料</td><td><span class="pill blue">等待导入</span></td><td><button class="btn" type="button" data-modal="importModal">导入资料</button></td></tr>
+                </table>
+              </div>
+              <div class="card pad">
+                <h3>待办</h3>
+                <div id="setupChecklist"></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="view" id="inbox">
+            <div class="layout-conversation">
+              <div class="card list" id="threadList"></div>
+              <div class="card chat">
+                <div class="chat-head" id="chatHead"></div>
+                <div class="messages" id="messages"></div>
+                <div class="composer">
+                  <textarea id="replyText" placeholder="连接真实会话后，可在这里生成或编辑回复。" disabled></textarea>
+                  <div class="composer-row">
+                    <div class="composer-pills" id="composerPills"></div>
+                    <div class="composer-actions">
+                      <button class="btn" type="button" id="copyBtn" disabled>复制草稿</button>
+                      <button class="btn" type="button" data-modal="privacyModal">隐私边界</button>
+                      <button class="btn primary" type="button" id="sendBtn" disabled>发送并记录</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="card ai-panel">
+                <div class="panel-tabs">
+                  <button class="tab active" type="button" data-ai-tab="translate">AI 建议</button>
+                  <button class="tab" type="button" data-ai-tab="sources">知识</button>
+                  <button class="tab" type="button" data-ai-tab="risk">风险</button>
+                </div>
+                <div class="ai-body" id="aiTranslate"></div>
+                <div class="ai-body hidden" id="aiSources"></div>
+                <div class="ai-body hidden" id="aiRisk"></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="view" id="browser">
+            <div class="browser-layout">
+              <div class="card list" id="browserStoreList"></div>
+              <div class="card browser">
+                <div class="browser-toolbar" id="browserChrome">
+                  <button class="btn icon-btn" type="button" title="后退" data-browser-action="back">←</button>
+                  <button class="btn icon-btn" type="button" title="前进" data-browser-action="forward">→</button>
+                  <button class="btn" type="button" data-browser-action="open-all">打开全部</button>
+                  <button class="btn" type="button" data-browser-action="reload">刷新</button>
+                  <button class="btn" type="button" data-browser-action="home">首页</button>
+                  <form class="url-form" id="browserUrlForm">
+                    <input class="urlbar" id="browserAddress" value="https://www.google.com/" aria-label="浏览器地址栏" />
+                  </form>
+                  <button class="btn" type="button" data-browser-action="google">Google</button>
+                  <button class="btn primary" type="button" data-browser-action="login">Chrome 登录</button>
+                  <button class="btn" type="button" data-browser-action="clear-session">清除登录态</button>
+                  <button class="btn" type="button" data-browser-action="delete-profile">删除身份</button>
+                  <button class="btn" type="button" data-browser-action="external">外部打开</button>
+                  <button class="btn" type="button" data-browser-action="inspect">诊断连接</button>
+                </div>
+                <div class="browser-tabs" id="browserModuleTabs">
+                  <button class="tab active" type="button" data-browser-module="browser">浏览器</button>
+                  <button class="tab" type="button" data-browser-module="auth">登录</button>
+                  <button class="tab" type="button" data-browser-module="sync">同步</button>
+                  <button class="tab" type="button" data-browser-module="logs">隐私</button>
+                </div>
+                <div class="embedded-browser" id="embeddedBrowser"></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="view" id="knowledge">
+            <div class="kb-grid">
+              <div class="card">
+                <div class="section-head">
+                  <h3>知识库资料</h3>
+                  <button class="btn primary" type="button" data-modal="importModal">导入资料</button>
+                </div>
+                <div id="knowledgeList"></div>
+              </div>
+              <div class="card pad">
+                <h3>引用配置</h3>
+                <div class="translation-box"><h4>当前状态</h4><p id="currentReferences">未导入资料时，AI 不会生成带来源的回复。</p></div>
+                <div class="translation-box"><h4>检索设置</h4><p id="recallSettings">导入真实文件或粘贴文本后，资料会保存在本地工作区，后续可接入向量检索服务。</p></div>
+                <button class="btn" type="button" data-modal="importModal">导入新资料</button>
+              </div>
+            </div>
+          </div>
+
+          <div class="view" id="policy">
+            <div class="policy-grid">
+              <div class="card pad">
+                <h3>账号客服模式</h3>
+                <div id="modeTable"></div>
+                <div class="rule"><div><strong>低风险消息自动回复</strong><button class="toggle" type="button" data-rule-id="lowRiskAuto"></button></div><p>仅在平台消息和 AI 服务真实接入后生效。</p></div>
+                <div class="rule"><div><strong>涉及退款必须人工确认</strong><button class="toggle on" type="button" data-rule-id="refundManual"></button></div><p>对真实同步的退款、纠纷、投诉会话强制转人工。</p></div>
+                <div class="rule"><div><strong>库存可验证时允许承诺换货</strong><button class="toggle" type="button" data-rule-id="verifiedReplacement"></button></div><p>需接入真实库存和物流截止时间。</p></div>
+              </div>
+              <div class="card pad">
+                <h3>翻译与 AI 服务</h3>
+                <div class="field"><label>回复语气</label><select id="toneSelect"><option>礼貌、明确、承担责任</option><option>简短效率型</option><option>更正式</option></select></div>
+                <div class="field"><label>回译策略</label><select id="backTranslateSelect"><option>每次发送前展示中文回译</option><option>仅高风险展示</option></select></div>
+                <div class="field"><label>禁止承诺词</label><textarea rows="4" id="blockedTerms">guarantee, definitely, compensation, legal responsibility</textarea></div>
+                <button class="btn primary" type="button" id="savePolicy">保存策略</button>
+              </div>
+            </div>
+          </div>
+
+          <div class="view" id="audit">
+            <div class="card">
+              <div class="section-head">
+                <h3>审计日志</h3>
+                <div class="section-actions"><span class="pill blue" id="auditStatus">本地记录</span><button class="btn" type="button" id="exportAudit">导出 CSV</button></div>
+              </div>
+              <table class="table" id="auditTable">
+                <tr><th>时间</th><th>操作者</th><th>对象</th><th>动作</th><th>依据</th></tr>
+              </table>
+            </div>
+          </div>
+
+          <div class="view" id="settings">
+            <div class="grid cols-2">
+              <div class="card pad">
+                <h3>隐私与授权边界</h3>
+                <div id="connectionList"></div>
+                <button class="btn primary" type="button" data-modal="privacyModal">查看说明</button>
+              </div>
+              <div class="card pad">
+                <h3>系统配置</h3>
+                <div class="form-grid">
+                  <div class="field"><label>默认工作区</label><input id="workspaceName" value="local" /></div>
+                  <div class="field"><label>消息 SLA 提醒</label><select id="slaReminder"><option>剩余 20 分钟提醒</option><option>剩余 10 分钟提醒</option></select></div>
+                  <div class="field"><label>审计保留</label><select id="auditRetention"><option>180 天</option><option>365 天</option></select></div>
+                  <button class="btn primary" type="button" id="saveSettings">保存设置</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <div class="modal-backdrop" id="browserProfileModal">
+      <div class="modal">
+        <div class="modal-head"><h2>创建 Google 浏览器身份</h2><button class="close" type="button" data-close>×</button></div>
+        <div class="modal-body">
+          <div class="form-grid">
+            <div class="field"><label>本机身份标签</label><input id="profileName" placeholder="例如：运营账号 A / 北美客服浏览器" /></div>
+            <div class="empty-state compact">
+              <strong>只保存这个标签和隔离 session</strong>
+              <span>Google 账号、平台账号、密码、验证码、Token 都只在用户本机 Chrome 里输入，不进入 CrossDesk 表单或本地业务配置。</span>
+            </div>
+          </div>
+        </div>
+        <div class="modal-foot"><button class="btn" type="button" data-close>取消</button><button class="btn primary" type="button" id="saveProfile">创建身份</button></div>
+      </div>
+    </div>
+
+    <div class="modal-backdrop" id="importModal">
+      <div class="modal">
+        <div class="modal-head"><h2>导入真实资料</h2><button class="close" type="button" data-close>×</button></div>
+        <div class="modal-body">
+          <div class="form-grid">
+            <div class="field"><label>资料标题</label><input id="importSource" placeholder="例如：退换货政策 2026-05" /></div>
+            <div class="field"><label>选择文件</label><input id="importFile" type="file" /></div>
+            <div class="field"><label>或粘贴文本</label><textarea id="importText" rows="6" placeholder="粘贴真实 FAQ、政策、商品说明或客服话术。"></textarea></div>
+            <div class="progress"><span id="importProgress" style="width:0%"></span></div>
+          </div>
+        </div>
+        <div class="modal-foot"><button class="btn" type="button" data-close>取消</button><button class="btn primary" type="button" id="startImport">导入资料</button></div>
+      </div>
+    </div>
+
+    <div class="modal-backdrop" id="privacyModal">
+      <div class="modal">
+        <div class="modal-head"><h2>账号登录与隐私边界</h2><button class="close" type="button" data-close>×</button></div>
+        <div class="modal-body">
+          <div class="privacy-list">
+            <div class="doc-row"><div><strong>登录发生在系统 Chrome 内</strong><br><span>用户打开 Google 或平台后台后，像正常使用 Chrome 一样自行登录。</span></div><span class="pill good">Chrome</span></div>
+            <div class="doc-row"><div><strong>CrossDesk 不提供敏感输入框</strong><br><span>不会要求填写 Google 密码、平台密码、API Key、Webhook Secret、OAuth Token。</span></div><span class="pill good">不收集</span></div>
+            <div class="doc-row"><div><strong>每个身份独立隔离</strong><br><span>Cookie、缓存和本地存储按 session partition 分开；删除身份会清理对应本地登录态。</span></div><span class="pill blue">本机隔离</span></div>
+            <div class="doc-row"><div><strong>后续数据同步</strong><br><span>客户私信、订单和库存需要通过官方 OAuth 或平台应用授权接入，不通过手填密钥完成。</span></div><span class="pill warn">待接入</span></div>
+          </div>
+        </div>
+        <div class="modal-foot"><button class="btn" type="button" data-close>关闭</button><button class="btn primary" type="button" data-view-jump="browser" data-close>打开浏览器</button></div>
+      </div>
+    </div>
+
+    <div class="modal-backdrop" id="desktopRequiredModal">
+      <div class="modal">
+        <div class="modal-head"><h2>请使用桌面版打开 Chrome</h2><button class="close" type="button" data-close>×</button></div>
+        <div class="modal-body">
+          <div class="empty-state compact">
+            <strong>当前 127.0.0.1 预览页不能启动本机 Chrome</strong>
+            <span>请切换到 CrossDesk 桌面版窗口，再点击“Chrome 登录”。桌面版会为每个身份创建独立 Chrome Profile，并打开本机真实 Chrome。</span>
+          </div>
+        </div>
+        <div class="modal-foot"><button class="btn primary" type="button" data-close>知道了</button></div>
+      </div>
+    </div>
+
+    <div class="modal-backdrop" id="identityModal">
+      <div class="modal">
+        <div class="modal-head"><h2>浏览器身份与隔离登录态</h2><button class="close" type="button" data-close>×</button></div>
+        <div class="modal-body">
+          <table class="table" id="identityTable"></table>
+        </div>
+        <div class="modal-foot"><button class="btn" type="button" data-close>关闭</button><button class="btn primary" type="button" id="refreshIdentity">刷新状态</button></div>
+      </div>
+    </div>
+
+    <div class="toast" id="toast" role="status" aria-live="polite">已更新</div>
+    <script src="app.js" charset="utf-8"></script>
+  </body>
+</html>

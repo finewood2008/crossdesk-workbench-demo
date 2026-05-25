@@ -1,0 +1,19 @@
+node_modules/
+open-design/
+.DS_Store
+Thumbs.db
+
+# Local runtime data
+*.log
+.env
+.env.*
+
+# Electron/browser session data should stay local
+chrome-profiles/
+profiles/
+user-data/
+
+# Build output
+dist/
+build/
+out/

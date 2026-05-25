@@ -1,0 +1,16 @@
+{
+  "name": "crossdesk-workbench",
+  "version": "0.1.0",
+  "private": true,
+  "description": "CrossDesk cross-border ecommerce customer service workbench prototype.",
+  "main": "electron/main.js",
+  "scripts": {
+    "start": "electron .",
+    "check": "node --check app.js && node --check electron/main.js && node --check electron/preload.js && node --check electron/smoke.js && node --check electron/demo-video.js",
+    "smoke": "electron electron/smoke.js",
+    "demo:video": "electron electron/demo-video.js"
+  },
+  "devDependencies": {
+    "electron": "^31.7.7"
+  }
+}
