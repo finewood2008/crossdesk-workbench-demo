@@ -6,21 +6,11 @@
   "main": "electron/main.js",
   "scripts": {
     "start": "electron .",
-    "inventory": "node inventory-server.js",
-    "vercel-build": "node --check api/index.js && npm run check",
-    "inventory:import": "node inventory-server.js import",
-    "inventory:images": "node scripts/extract-inventory-images.js",
-    "perfume:research": "node scripts/enrich-perfume-research.js --only-missing",
-    "check": "node --check app.js && node --check inventory-server.js && node --check scripts/extract-inventory-images.js && node --check scripts/enrich-perfume-research.js && node --check inventory-public/inventory.js && node --check electron/main.js && node --check electron/preload.js && node --check electron/smoke.js && node --check electron/demo-video.js",
+    "check": "node --check app.js && node --check electron/main.js && node --check electron/preload.js && node --check electron/smoke.js && node --check electron/demo-video.js",
     "smoke": "electron electron/smoke.js",
     "demo:video": "electron electron/demo-video.js"
   },
   "devDependencies": {
     "electron": "^31.7.7"
-  },
-  "dependencies": {
-    "express": "^5.2.1",
-    "multer": "^2.1.1",
-    "xlsx": "^0.18.5"
   }
 }
