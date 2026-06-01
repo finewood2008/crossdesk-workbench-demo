@@ -1,0 +1,2833 @@
+{
+  "version": 1,
+  "generatedAt": "2026-05-31T19:59:51.818Z",
+  "source": {
+    "filename": "Inventory.xlsx",
+    "path": "C:\\Users\\DELL\\Desktop\\Inventory.xlsx"
+  },
+  "totalCellImages": 282,
+  "extractedImages": 282,
+  "missingImages": [],
+  "images": {
+    "ID_084812A5C21849FF84DE3B1442EF0472": {
+      "url": "/product-images/ID_084812A5C21849FF84DE3B1442EF0472.jpeg",
+      "thumbUrl": "/product-images/ID_084812A5C21849FF84DE3B1442EF0472.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_084812A5C21849FF84DE3B1442EF0472",
+      "originalDescription": "WechatIMG2273",
+      "embeddedFile": "xl/media/image1.jpeg"
+    },
+    "ID_606F7D52D86647AFB2951DE35B72C750": {
+      "url": "/product-images/ID_606F7D52D86647AFB2951DE35B72C750.jpeg",
+      "thumbUrl": "/product-images/ID_606F7D52D86647AFB2951DE35B72C750.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_606F7D52D86647AFB2951DE35B72C750",
+      "originalDescription": "WL123",
+      "embeddedFile": "xl/media/image2.jpeg"
+    },
+    "ID_EE21718A47E046BDB74C490FA1D5617D": {
+      "url": "/product-images/ID_EE21718A47E046BDB74C490FA1D5617D.webp",
+      "thumbUrl": "/product-images/ID_EE21718A47E046BDB74C490FA1D5617D.webp",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_EE21718A47E046BDB74C490FA1D5617D",
+      "originalDescription": "1",
+      "embeddedFile": "xl/media/image3.webp"
+    },
+    "ID_ABF6650678A14BA6B4D47C2884721EA8": {
+      "url": "/product-images/ID_ABF6650678A14BA6B4D47C2884721EA8.jpeg",
+      "thumbUrl": "/product-images/ID_ABF6650678A14BA6B4D47C2884721EA8.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_ABF6650678A14BA6B4D47C2884721EA8",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image4.jpeg"
+    },
+    "ID_C8CC4BF683B94F5F8E88E62770DDB4E1": {
+      "url": "/product-images/ID_C8CC4BF683B94F5F8E88E62770DDB4E1.jpeg",
+      "thumbUrl": "/product-images/ID_C8CC4BF683B94F5F8E88E62770DDB4E1.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_C8CC4BF683B94F5F8E88E62770DDB4E1",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image5.jpeg"
+    },
+    "ID_7D2DEB36B45E46B888AAFE5B19D347B7": {
+      "url": "/product-images/ID_7D2DEB36B45E46B888AAFE5B19D347B7.jpeg",
+      "thumbUrl": "/product-images/ID_7D2DEB36B45E46B888AAFE5B19D347B7.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_7D2DEB36B45E46B888AAFE5B19D347B7",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image6.jpeg"
+    },
+    "ID_0A6C1026AF76478CA22A0F17BA9CC1DC": {
+      "url": "/product-images/ID_0A6C1026AF76478CA22A0F17BA9CC1DC.jpeg",
+      "thumbUrl": "/product-images/ID_0A6C1026AF76478CA22A0F17BA9CC1DC.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_0A6C1026AF76478CA22A0F17BA9CC1DC",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image7.jpeg"
+    },
+    "ID_08A450868E974C1B9061F1AE3F82E11E": {
+      "url": "/product-images/ID_08A450868E974C1B9061F1AE3F82E11E.jpeg",
+      "thumbUrl": "/product-images/ID_08A450868E974C1B9061F1AE3F82E11E.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_08A450868E974C1B9061F1AE3F82E11E",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image8.jpeg"
+    },
+    "ID_EE0AC80486E348449400C4A0211BF396": {
+      "url": "/product-images/ID_EE0AC80486E348449400C4A0211BF396.webp",
+      "thumbUrl": "/product-images/ID_EE0AC80486E348449400C4A0211BF396.webp",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_EE0AC80486E348449400C4A0211BF396",
+      "originalDescription": "14",
+      "embeddedFile": "xl/media/image9.webp"
+    },
+    "ID_8D5ADB1462524DB5A92326F90F8E0F61": {
+      "url": "/product-images/ID_8D5ADB1462524DB5A92326F90F8E0F61.webp",
+      "thumbUrl": "/product-images/ID_8D5ADB1462524DB5A92326F90F8E0F61.webp",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_8D5ADB1462524DB5A92326F90F8E0F61",
+      "originalDescription": "1",
+      "embeddedFile": "xl/media/image10.webp"
+    },
+    "ID_16972D39C89C48CC90F44DF9E5F3043B": {
+      "url": "/product-images/ID_16972D39C89C48CC90F44DF9E5F3043B.jpeg",
+      "thumbUrl": "/product-images/ID_16972D39C89C48CC90F44DF9E5F3043B.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_16972D39C89C48CC90F44DF9E5F3043B",
+      "originalDescription": "7157Z3M2QHL._SL1500_",
+      "embeddedFile": "xl/media/image11.jpeg"
+    },
+    "ID_314362A011124D3DAE0D79E9D45F65AB": {
+      "url": "/product-images/ID_314362A011124D3DAE0D79E9D45F65AB.jpeg",
+      "thumbUrl": "/product-images/ID_314362A011124D3DAE0D79E9D45F65AB.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_314362A011124D3DAE0D79E9D45F65AB",
+      "originalDescription": "Eshal vanilla",
+      "embeddedFile": "xl/media/image12.jpeg"
+    },
+    "ID_929668F8726F48D194885DE42454AB6F": {
+      "url": "/product-images/ID_929668F8726F48D194885DE42454AB6F.jpeg",
+      "thumbUrl": "/product-images/ID_929668F8726F48D194885DE42454AB6F.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_929668F8726F48D194885DE42454AB6F",
+      "originalDescription": "1",
+      "embeddedFile": "xl/media/image13.jpeg"
+    },
+    "ID_FC841917E27F47888028DCB60504A508": {
+      "url": "/product-images/ID_FC841917E27F47888028DCB60504A508.jpeg",
+      "thumbUrl": "/product-images/ID_FC841917E27F47888028DCB60504A508.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_FC841917E27F47888028DCB60504A508",
+      "originalDescription": "2",
+      "embeddedFile": "xl/media/image14.jpeg"
+    },
+    "ID_73A6F7C054E1418A8A75AE18CEBAC33B": {
+      "url": "/product-images/ID_73A6F7C054E1418A8A75AE18CEBAC33B.jpeg",
+      "thumbUrl": "/product-images/ID_73A6F7C054E1418A8A75AE18CEBAC33B.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_73A6F7C054E1418A8A75AE18CEBAC33B",
+      "originalDescription": "714YnI3xBfL._SL1500_",
+      "embeddedFile": "xl/media/image15.jpeg"
+    },
+    "ID_141E89CCDB7644E9933F956E1E893554": {
+      "url": "/product-images/ID_141E89CCDB7644E9933F956E1E893554.jpeg",
+      "thumbUrl": "/product-images/ID_141E89CCDB7644E9933F956E1E893554.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_141E89CCDB7644E9933F956E1E893554",
+      "originalDescription": "1",
+      "embeddedFile": "xl/media/image16.jpeg"
+    },
+    "ID_BCDE41B4B621480E8098A49BA6070D0E": {
+      "url": "/product-images/ID_BCDE41B4B621480E8098A49BA6070D0E.jpeg",
+      "thumbUrl": "/product-images/ID_BCDE41B4B621480E8098A49BA6070D0E.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_BCDE41B4B621480E8098A49BA6070D0E",
+      "originalDescription": "2",
+      "embeddedFile": "xl/media/image17.jpeg"
+    },
+    "ID_A3D2F3FCDC03406F8CC4047A98339080": {
+      "url": "/product-images/ID_A3D2F3FCDC03406F8CC4047A98339080.jpeg",
+      "thumbUrl": "/product-images/ID_A3D2F3FCDC03406F8CC4047A98339080.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_A3D2F3FCDC03406F8CC4047A98339080",
+      "originalDescription": "2",
+      "embeddedFile": "xl/media/image18.jpeg"
+    },
+    "ID_42B737BDF6054BA0B00584A92431FD6D": {
+      "url": "/product-images/ID_42B737BDF6054BA0B00584A92431FD6D.jpeg",
+      "thumbUrl": "/product-images/ID_42B737BDF6054BA0B00584A92431FD6D.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_42B737BDF6054BA0B00584A92431FD6D",
+      "originalDescription": "WeChat66cbf99b2ee8aafc53b5dd62633fb190",
+      "embeddedFile": "xl/media/image19.jpeg"
+    },
+    "ID_71DC68C2F3F64781A96E44447C089AA3": {
+      "url": "/product-images/ID_71DC68C2F3F64781A96E44447C089AA3.jpeg",
+      "thumbUrl": "/product-images/ID_71DC68C2F3F64781A96E44447C089AA3.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_71DC68C2F3F64781A96E44447C089AA3",
+      "originalDescription": "2",
+      "embeddedFile": "xl/media/image20.jpeg"
+    },
+    "ID_28554A4E8D0749A2B4111A3C46CF7A43": {
+      "url": "/product-images/ID_28554A4E8D0749A2B4111A3C46CF7A43.jpeg",
+      "thumbUrl": "/product-images/ID_28554A4E8D0749A2B4111A3C46CF7A43.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_28554A4E8D0749A2B4111A3C46CF7A43",
+      "originalDescription": "WeChat3838d1145ac2ce5c969c724fbeed17ba",
+      "embeddedFile": "xl/media/image21.jpeg"
+    },
+    "ID_9AD5A4941DAB471F80F20885BDE4C314": {
+      "url": "/product-images/ID_9AD5A4941DAB471F80F20885BDE4C314.jpeg",
+      "thumbUrl": "/product-images/ID_9AD5A4941DAB471F80F20885BDE4C314.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_9AD5A4941DAB471F80F20885BDE4C314",
+      "originalDescription": "1",
+      "embeddedFile": "xl/media/image22.jpeg"
+    },
+    "ID_626A04EF423D46EFB280C72D24C445BA": {
+      "url": "/product-images/ID_626A04EF423D46EFB280C72D24C445BA.jpeg",
+      "thumbUrl": "/product-images/ID_626A04EF423D46EFB280C72D24C445BA.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_626A04EF423D46EFB280C72D24C445BA",
+      "originalDescription": "2",
+      "embeddedFile": "xl/media/image23.jpeg"
+    },
+    "ID_E167AB8D9D5F430FB4164F1D05CDD2FD": {
+      "url": "/product-images/ID_E167AB8D9D5F430FB4164F1D05CDD2FD.webp",
+      "thumbUrl": "/product-images/ID_E167AB8D9D5F430FB4164F1D05CDD2FD.webp",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_E167AB8D9D5F430FB4164F1D05CDD2FD",
+      "originalDescription": "LafayetteSt_Bottle_withBox",
+      "embeddedFile": "xl/media/image24.webp"
+    },
+    "ID_007B0D1786C944CBA2826A185B93335C": {
+      "url": "/product-images/ID_007B0D1786C944CBA2826A185B93335C.jpeg",
+      "thumbUrl": "/product-images/ID_007B0D1786C944CBA2826A185B93335C.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_007B0D1786C944CBA2826A185B93335C",
+      "originalDescription": "1",
+      "embeddedFile": "xl/media/image25.jpeg"
+    },
+    "ID_516F50EEDF0E47FA851CDA5A33C3EC2A": {
+      "url": "/product-images/ID_516F50EEDF0E47FA851CDA5A33C3EC2A.jpeg",
+      "thumbUrl": "/product-images/ID_516F50EEDF0E47FA851CDA5A33C3EC2A.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_516F50EEDF0E47FA851CDA5A33C3EC2A",
+      "originalDescription": "71wKzbk25YL._SL1500_",
+      "embeddedFile": "xl/media/image26.jpeg"
+    },
+    "ID_15C16471DA6644F1A90986F7E46848E6": {
+      "url": "/product-images/ID_15C16471DA6644F1A90986F7E46848E6.jpeg",
+      "thumbUrl": "/product-images/ID_15C16471DA6644F1A90986F7E46848E6.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_15C16471DA6644F1A90986F7E46848E6",
+      "originalDescription": "61SbbUuIStL._SL1500_",
+      "embeddedFile": "xl/media/image27.jpeg"
+    },
+    "ID_BB5C41C67442428FA128E8BA4FF82772": {
+      "url": "/product-images/ID_BB5C41C67442428FA128E8BA4FF82772.jpeg",
+      "thumbUrl": "/product-images/ID_BB5C41C67442428FA128E8BA4FF82772.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_BB5C41C67442428FA128E8BA4FF82772",
+      "originalDescription": "61RTJFSrPGL._SL1200_",
+      "embeddedFile": "xl/media/image28.jpeg"
+    },
+    "ID_300AADC1A446420A8DD5FF8FABE291B1": {
+      "url": "/product-images/ID_300AADC1A446420A8DD5FF8FABE291B1.jpeg",
+      "thumbUrl": "/product-images/ID_300AADC1A446420A8DD5FF8FABE291B1.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_300AADC1A446420A8DD5FF8FABE291B1",
+      "originalDescription": "60779eba-1bba-424",
+      "embeddedFile": "xl/media/image29.jpeg"
+    },
+    "ID_EAD1C4016219458BA9FD8512BABA33A7": {
+      "url": "/product-images/ID_EAD1C4016219458BA9FD8512BABA33A7.jpeg",
+      "thumbUrl": "/product-images/ID_EAD1C4016219458BA9FD8512BABA33A7.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_EAD1C4016219458BA9FD8512BABA33A7",
+      "originalDescription": "51+Axuy466L._SL1385_",
+      "embeddedFile": "xl/media/image30.jpeg"
+    },
+    "ID_B62AD76B54854E368E04E371E4BEA600": {
+      "url": "/product-images/ID_B62AD76B54854E368E04E371E4BEA600.jpeg",
+      "thumbUrl": "/product-images/ID_B62AD76B54854E368E04E371E4BEA600.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_B62AD76B54854E368E04E371E4BEA600",
+      "originalDescription": "61sP1VQDRGL._SL1500_",
+      "embeddedFile": "xl/media/image31.jpeg"
+    },
+    "ID_E69D3B4520EC4146BF21AB3EDB1F29C8": {
+      "url": "/product-images/ID_E69D3B4520EC4146BF21AB3EDB1F29C8.jpeg",
+      "thumbUrl": "/product-images/ID_E69D3B4520EC4146BF21AB3EDB1F29C8.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_E69D3B4520EC4146BF21AB3EDB1F29C8",
+      "originalDescription": "1",
+      "embeddedFile": "xl/media/image32.jpeg"
+    },
+    "ID_E15699DD35704931859DBA96C3E12FD8": {
+      "url": "/product-images/ID_E15699DD35704931859DBA96C3E12FD8.jpeg",
+      "thumbUrl": "/product-images/ID_E15699DD35704931859DBA96C3E12FD8.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_E15699DD35704931859DBA96C3E12FD8",
+      "originalDescription": "1",
+      "embeddedFile": "xl/media/image33.jpeg"
+    },
+    "ID_6529CFCCF3EB461E9EEECE64D1D56B9C": {
+      "url": "/product-images/ID_6529CFCCF3EB461E9EEECE64D1D56B9C.jpeg",
+      "thumbUrl": "/product-images/ID_6529CFCCF3EB461E9EEECE64D1D56B9C.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_6529CFCCF3EB461E9EEECE64D1D56B9C",
+      "originalDescription": "1",
+      "embeddedFile": "xl/media/image34.jpeg"
+    },
+    "ID_631FF7135E1F475EA1E58E49B9F62EB1": {
+      "url": "/product-images/ID_631FF7135E1F475EA1E58E49B9F62EB1.png",
+      "thumbUrl": "/product-images/ID_631FF7135E1F475EA1E58E49B9F62EB1.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_631FF7135E1F475EA1E58E49B9F62EB1",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image35.png"
+    },
+    "ID_456897B6017D443FA0D9DF06FC74F34F": {
+      "url": "/product-images/ID_456897B6017D443FA0D9DF06FC74F34F.jpeg",
+      "thumbUrl": "/product-images/ID_456897B6017D443FA0D9DF06FC74F34F.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_456897B6017D443FA0D9DF06FC74F34F",
+      "originalDescription": "WeChat119ac7726c64b3a29377d02560ea5494",
+      "embeddedFile": "xl/media/image36.jpeg"
+    },
+    "ID_C2009D75BC0746B29F25181AC90FC232": {
+      "url": "/product-images/ID_C2009D75BC0746B29F25181AC90FC232.jpeg",
+      "thumbUrl": "/product-images/ID_C2009D75BC0746B29F25181AC90FC232.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_C2009D75BC0746B29F25181AC90FC232",
+      "originalDescription": "WeChat67672caab8c4a742cdc84a80dd571ee2",
+      "embeddedFile": "xl/media/image37.jpeg"
+    },
+    "ID_53B927E1EBAD407C9C18890C55C17D25": {
+      "url": "/product-images/ID_53B927E1EBAD407C9C18890C55C17D25.jpeg",
+      "thumbUrl": "/product-images/ID_53B927E1EBAD407C9C18890C55C17D25.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_53B927E1EBAD407C9C18890C55C17D25",
+      "originalDescription": "611BWTdXvfS._SL1500_",
+      "embeddedFile": "xl/media/image38.jpeg"
+    },
+    "ID_145E9114E24640FC8647F8817CDB55CD": {
+      "url": "/product-images/ID_145E9114E24640FC8647F8817CDB55CD.jpeg",
+      "thumbUrl": "/product-images/ID_145E9114E24640FC8647F8817CDB55CD.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_145E9114E24640FC8647F8817CDB55CD",
+      "originalDescription": "614rEwY7zcL._SL1500_",
+      "embeddedFile": "xl/media/image39.jpeg"
+    },
+    "ID_0A41E44A1706438E9E95FBC85B3A7D82": {
+      "url": "/product-images/ID_0A41E44A1706438E9E95FBC85B3A7D82.jpeg",
+      "thumbUrl": "/product-images/ID_0A41E44A1706438E9E95FBC85B3A7D82.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_0A41E44A1706438E9E95FBC85B3A7D82",
+      "originalDescription": "1",
+      "embeddedFile": "xl/media/image40.jpeg"
+    },
+    "ID_91A76700488041DF8D66908A53D77B82": {
+      "url": "/product-images/ID_91A76700488041DF8D66908A53D77B82.jpeg",
+      "thumbUrl": "/product-images/ID_91A76700488041DF8D66908A53D77B82.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_91A76700488041DF8D66908A53D77B82",
+      "originalDescription": "grace2",
+      "embeddedFile": "xl/media/image41.jpeg"
+    },
+    "ID_965B04920A8945FFA7C3C497F42DBC7E": {
+      "url": "/product-images/ID_965B04920A8945FFA7C3C497F42DBC7E.jpeg",
+      "thumbUrl": "/product-images/ID_965B04920A8945FFA7C3C497F42DBC7E.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_965B04920A8945FFA7C3C497F42DBC7E",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image42.jpeg"
+    },
+    "ID_3C5EB3229FFE49428F14D6C9AF72D7CF": {
+      "url": "/product-images/ID_3C5EB3229FFE49428F14D6C9AF72D7CF.jpeg",
+      "thumbUrl": "/product-images/ID_3C5EB3229FFE49428F14D6C9AF72D7CF.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_3C5EB3229FFE49428F14D6C9AF72D7CF",
+      "originalDescription": "C:/Users/16222/Desktop/链接图片/Kayali（卡亚利）/原图/516Rr0LWLNL..jpg516Rr0LWLNL.",
+      "embeddedFile": "xl/media/image43.jpeg"
+    },
+    "ID_2727E5C8F9CB4E6C9EC510A311555604": {
+      "url": "/product-images/ID_2727E5C8F9CB4E6C9EC510A311555604.jpeg",
+      "thumbUrl": "/product-images/ID_2727E5C8F9CB4E6C9EC510A311555604.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_2727E5C8F9CB4E6C9EC510A311555604",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image44.jpeg"
+    },
+    "ID_C4941F08063F40F9AB31C0232E217A9B": {
+      "url": "/product-images/ID_C4941F08063F40F9AB31C0232E217A9B.jpeg",
+      "thumbUrl": "/product-images/ID_C4941F08063F40F9AB31C0232E217A9B.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_C4941F08063F40F9AB31C0232E217A9B",
+      "originalDescription": "C:/Users/16222/Desktop/链接图片/Kayali（卡亚利）/原图/31-ID0e0OrL..jpg31-ID0e0OrL.",
+      "embeddedFile": "xl/media/image45.jpeg"
+    },
+    "ID_C5AB56C1A520470289D4D50CEE7F5B1D": {
+      "url": "/product-images/ID_C5AB56C1A520470289D4D50CEE7F5B1D.jpeg",
+      "thumbUrl": "/product-images/ID_C5AB56C1A520470289D4D50CEE7F5B1D.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_C5AB56C1A520470289D4D50CEE7F5B1D",
+      "originalDescription": "C:/Users/16222/Desktop/链接图片/Kayali（卡亚利）/原图/31HPwwXD3PL..jpg31HPwwXD3PL.",
+      "embeddedFile": "xl/media/image46.jpeg"
+    },
+    "ID_6BE6D56A17C14ECAA884F29F49A2E0B7": {
+      "url": "/product-images/ID_6BE6D56A17C14ECAA884F29F49A2E0B7.png",
+      "thumbUrl": "/product-images/ID_6BE6D56A17C14ECAA884F29F49A2E0B7.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_6BE6D56A17C14ECAA884F29F49A2E0B7",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image47.png"
+    },
+    "ID_58A44DB8A9F143159234472BE4DAC1D3": {
+      "url": "/product-images/ID_58A44DB8A9F143159234472BE4DAC1D3.jpeg",
+      "thumbUrl": "/product-images/ID_58A44DB8A9F143159234472BE4DAC1D3.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_58A44DB8A9F143159234472BE4DAC1D3",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image48.jpeg"
+    },
+    "ID_0AC5595D0DA9473C9F470D6323E73A96": {
+      "url": "/product-images/ID_0AC5595D0DA9473C9F470D6323E73A96.png",
+      "thumbUrl": "/product-images/ID_0AC5595D0DA9473C9F470D6323E73A96.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_0AC5595D0DA9473C9F470D6323E73A96",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image49.png"
+    },
+    "ID_D87FE426578E45E198AD6A09A6884E82": {
+      "url": "/product-images/ID_D87FE426578E45E198AD6A09A6884E82.jpeg",
+      "thumbUrl": "/product-images/ID_D87FE426578E45E198AD6A09A6884E82.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_D87FE426578E45E198AD6A09A6884E82",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image50.jpeg"
+    },
+    "ID_D136E6C606B04B10B869CD4C7C9AFD91": {
+      "url": "/product-images/ID_D136E6C606B04B10B869CD4C7C9AFD91.jpeg",
+      "thumbUrl": "/product-images/ID_D136E6C606B04B10B869CD4C7C9AFD91.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_D136E6C606B04B10B869CD4C7C9AFD91",
+      "originalDescription": "71mzkrfNhnL._SL1500_",
+      "embeddedFile": "xl/media/image51.jpeg"
+    },
+    "ID_2A582848BA0A41EA93F97CBC11CFE35A": {
+      "url": "/product-images/ID_2A582848BA0A41EA93F97CBC11CFE35A.jpeg",
+      "thumbUrl": "/product-images/ID_2A582848BA0A41EA93F97CBC11CFE35A.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_2A582848BA0A41EA93F97CBC11CFE35A",
+      "originalDescription": "81fzBzlpEGL._SL1500_",
+      "embeddedFile": "xl/media/image52.jpeg"
+    },
+    "ID_F938871E3BCE4819A1261663CB3F1B93": {
+      "url": "/product-images/ID_F938871E3BCE4819A1261663CB3F1B93.jpeg",
+      "thumbUrl": "/product-images/ID_F938871E3BCE4819A1261663CB3F1B93.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_F938871E3BCE4819A1261663CB3F1B93",
+      "originalDescription": "61EwBYA7TXL._SL1000_",
+      "embeddedFile": "xl/media/image53.jpeg"
+    },
+    "ID_0EFA9A2BF7104E7592589B050AB81952": {
+      "url": "/product-images/ID_0EFA9A2BF7104E7592589B050AB81952.jpeg",
+      "thumbUrl": "/product-images/ID_0EFA9A2BF7104E7592589B050AB81952.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_0EFA9A2BF7104E7592589B050AB81952",
+      "originalDescription": "7124hx9O-zL._SL1500_",
+      "embeddedFile": "xl/media/image54.jpeg"
+    },
+    "ID_DE640F38501B4034B80B31AE77C4B459": {
+      "url": "/product-images/ID_DE640F38501B4034B80B31AE77C4B459.jpeg",
+      "thumbUrl": "/product-images/ID_DE640F38501B4034B80B31AE77C4B459.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_DE640F38501B4034B80B31AE77C4B459",
+      "originalDescription": "1",
+      "embeddedFile": "xl/media/image55.jpeg"
+    },
+    "ID_70EFD9319A5747E18DE6628A8D245F59": {
+      "url": "/product-images/ID_70EFD9319A5747E18DE6628A8D245F59.jpeg",
+      "thumbUrl": "/product-images/ID_70EFD9319A5747E18DE6628A8D245F59.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_70EFD9319A5747E18DE6628A8D245F59",
+      "originalDescription": "1-1",
+      "embeddedFile": "xl/media/image56.jpeg"
+    },
+    "ID_756CE5CC9D3B43FEA03CDEA69592E50D": {
+      "url": "/product-images/ID_756CE5CC9D3B43FEA03CDEA69592E50D.png",
+      "thumbUrl": "/product-images/ID_756CE5CC9D3B43FEA03CDEA69592E50D.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_756CE5CC9D3B43FEA03CDEA69592E50D",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image57.png"
+    },
+    "ID_5275A87132194503B21258C8355500CD": {
+      "url": "/product-images/ID_5275A87132194503B21258C8355500CD.png",
+      "thumbUrl": "/product-images/ID_5275A87132194503B21258C8355500CD.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_5275A87132194503B21258C8355500CD",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image58.png"
+    },
+    "ID_CFF0405E8B06434E8362F3E64C289023": {
+      "url": "/product-images/ID_CFF0405E8B06434E8362F3E64C289023.jpeg",
+      "thumbUrl": "/product-images/ID_CFF0405E8B06434E8362F3E64C289023.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_CFF0405E8B06434E8362F3E64C289023",
+      "originalDescription": "61cBIxU-s3L._SL1500_",
+      "embeddedFile": "xl/media/image59.jpeg"
+    },
+    "ID_8821A86C29384C4DBF86F0E9CD253CD2": {
+      "url": "/product-images/ID_8821A86C29384C4DBF86F0E9CD253CD2.png",
+      "thumbUrl": "/product-images/ID_8821A86C29384C4DBF86F0E9CD253CD2.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_8821A86C29384C4DBF86F0E9CD253CD2",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image60.png"
+    },
+    "ID_4B8664599E8847539E0E598AA29C3F06": {
+      "url": "/product-images/ID_4B8664599E8847539E0E598AA29C3F06.jpeg",
+      "thumbUrl": "/product-images/ID_4B8664599E8847539E0E598AA29C3F06.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_4B8664599E8847539E0E598AA29C3F06",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image61.jpeg"
+    },
+    "ID_391A82A4778A4049AADB10D025F23E6A": {
+      "url": "/product-images/ID_391A82A4778A4049AADB10D025F23E6A.jpeg",
+      "thumbUrl": "/product-images/ID_391A82A4778A4049AADB10D025F23E6A.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_391A82A4778A4049AADB10D025F23E6A",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image62.jpeg"
+    },
+    "ID_82F2CB69003342F79FBCAF6CDEEE6458": {
+      "url": "/product-images/ID_82F2CB69003342F79FBCAF6CDEEE6458.png",
+      "thumbUrl": "/product-images/ID_82F2CB69003342F79FBCAF6CDEEE6458.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_82F2CB69003342F79FBCAF6CDEEE6458",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image63.png"
+    },
+    "ID_70DA411461CB411C86AAAB87B3F3B05E": {
+      "url": "/product-images/ID_70DA411461CB411C86AAAB87B3F3B05E.jpeg",
+      "thumbUrl": "/product-images/ID_70DA411461CB411C86AAAB87B3F3B05E.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_70DA411461CB411C86AAAB87B3F3B05E",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image64.jpeg"
+    },
+    "ID_907A9CEF69AF4E218C1C76CA2F866B46": {
+      "url": "/product-images/ID_907A9CEF69AF4E218C1C76CA2F866B46.png",
+      "thumbUrl": "/product-images/ID_907A9CEF69AF4E218C1C76CA2F866B46.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_907A9CEF69AF4E218C1C76CA2F866B46",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image65.png"
+    },
+    "ID_157872CB52734E1B9A334198460DC595": {
+      "url": "/product-images/ID_157872CB52734E1B9A334198460DC595.png",
+      "thumbUrl": "/product-images/ID_157872CB52734E1B9A334198460DC595.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_157872CB52734E1B9A334198460DC595",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image66.png"
+    },
+    "ID_37052BE0FFE440C6A9D4AE74E7457B6F": {
+      "url": "/product-images/ID_37052BE0FFE440C6A9D4AE74E7457B6F.jpeg",
+      "thumbUrl": "/product-images/ID_37052BE0FFE440C6A9D4AE74E7457B6F.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_37052BE0FFE440C6A9D4AE74E7457B6F",
+      "originalDescription": "1",
+      "embeddedFile": "xl/media/image67.jpeg"
+    },
+    "ID_B647306A8A2D4BE4A45C45B5B98DD3E7": {
+      "url": "/product-images/ID_B647306A8A2D4BE4A45C45B5B98DD3E7.png",
+      "thumbUrl": "/product-images/ID_B647306A8A2D4BE4A45C45B5B98DD3E7.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_B647306A8A2D4BE4A45C45B5B98DD3E7",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image68.png"
+    },
+    "ID_6C1DAD1E0E3146758CC1D897D3F6C203": {
+      "url": "/product-images/ID_6C1DAD1E0E3146758CC1D897D3F6C203.png",
+      "thumbUrl": "/product-images/ID_6C1DAD1E0E3146758CC1D897D3F6C203.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_6C1DAD1E0E3146758CC1D897D3F6C203",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image69.png"
+    },
+    "ID_D643D135A3334E4CA13A4C0238DA053C": {
+      "url": "/product-images/ID_D643D135A3334E4CA13A4C0238DA053C.png",
+      "thumbUrl": "/product-images/ID_D643D135A3334E4CA13A4C0238DA053C.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_D643D135A3334E4CA13A4C0238DA053C",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image70.png"
+    },
+    "ID_CE358FF487344E1AA5597D0CDA869D23": {
+      "url": "/product-images/ID_CE358FF487344E1AA5597D0CDA869D23.jpeg",
+      "thumbUrl": "/product-images/ID_CE358FF487344E1AA5597D0CDA869D23.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_CE358FF487344E1AA5597D0CDA869D23",
+      "originalDescription": "1",
+      "embeddedFile": "xl/media/image71.jpeg"
+    },
+    "ID_A2C9423F46484D04B3988C80E925A681": {
+      "url": "/product-images/ID_A2C9423F46484D04B3988C80E925A681.jpeg",
+      "thumbUrl": "/product-images/ID_A2C9423F46484D04B3988C80E925A681.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_A2C9423F46484D04B3988C80E925A681",
+      "originalDescription": "2",
+      "embeddedFile": "xl/media/image72.jpeg"
+    },
+    "ID_1CE94F2E593D4989A781D29143D0E515": {
+      "url": "/product-images/ID_1CE94F2E593D4989A781D29143D0E515.jpeg",
+      "thumbUrl": "/product-images/ID_1CE94F2E593D4989A781D29143D0E515.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_1CE94F2E593D4989A781D29143D0E515",
+      "originalDescription": "3",
+      "embeddedFile": "xl/media/image73.jpeg"
+    },
+    "ID_53103B627AE245C194B948E299D306BC": {
+      "url": "/product-images/ID_53103B627AE245C194B948E299D306BC.jpeg",
+      "thumbUrl": "/product-images/ID_53103B627AE245C194B948E299D306BC.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_53103B627AE245C194B948E299D306BC",
+      "originalDescription": "1",
+      "embeddedFile": "xl/media/image74.jpeg"
+    },
+    "ID_C11C046A68404EBDA920E5B4EDA40292": {
+      "url": "/product-images/ID_C11C046A68404EBDA920E5B4EDA40292.jpeg",
+      "thumbUrl": "/product-images/ID_C11C046A68404EBDA920E5B4EDA40292.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_C11C046A68404EBDA920E5B4EDA40292",
+      "originalDescription": "2",
+      "embeddedFile": "xl/media/image75.jpeg"
+    },
+    "ID_F11FD990B07449DE896824F624093E3C": {
+      "url": "/product-images/ID_F11FD990B07449DE896824F624093E3C.jpeg",
+      "thumbUrl": "/product-images/ID_F11FD990B07449DE896824F624093E3C.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_F11FD990B07449DE896824F624093E3C",
+      "originalDescription": "2",
+      "embeddedFile": "xl/media/image76.jpeg"
+    },
+    "ID_18F1BF501B914BD7B4A576962B368829": {
+      "url": "/product-images/ID_18F1BF501B914BD7B4A576962B368829.jpeg",
+      "thumbUrl": "/product-images/ID_18F1BF501B914BD7B4A576962B368829.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_18F1BF501B914BD7B4A576962B368829",
+      "originalDescription": "71-YpkCCWbL._SL1500_",
+      "embeddedFile": "xl/media/image77.jpeg"
+    },
+    "ID_F23402E8708849FE880D3C7724E5B7B4": {
+      "url": "/product-images/ID_F23402E8708849FE880D3C7724E5B7B4.jpeg",
+      "thumbUrl": "/product-images/ID_F23402E8708849FE880D3C7724E5B7B4.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_F23402E8708849FE880D3C7724E5B7B4",
+      "originalDescription": "5168MnaKumL._SL1000_",
+      "embeddedFile": "xl/media/image78.jpeg"
+    },
+    "ID_F0890F9A52E04F6586DF4DE28F758BBB": {
+      "url": "/product-images/ID_F0890F9A52E04F6586DF4DE28F758BBB.jpeg",
+      "thumbUrl": "/product-images/ID_F0890F9A52E04F6586DF4DE28F758BBB.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_F0890F9A52E04F6586DF4DE28F758BBB",
+      "originalDescription": "51yA+UIrbqL._SL1000_",
+      "embeddedFile": "xl/media/image79.jpeg"
+    },
+    "ID_74D70B5007EE467B88D1DAD4762BD8BE": {
+      "url": "/product-images/ID_74D70B5007EE467B88D1DAD4762BD8BE.jpeg",
+      "thumbUrl": "/product-images/ID_74D70B5007EE467B88D1DAD4762BD8BE.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_74D70B5007EE467B88D1DAD4762BD8BE",
+      "originalDescription": "51qgnsfn-gL._SL1000_",
+      "embeddedFile": "xl/media/image80.jpeg"
+    },
+    "ID_8067ED1DEB304ACEA8A350B9A33D1258": {
+      "url": "/product-images/ID_8067ED1DEB304ACEA8A350B9A33D1258.jpeg",
+      "thumbUrl": "/product-images/ID_8067ED1DEB304ACEA8A350B9A33D1258.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_8067ED1DEB304ACEA8A350B9A33D1258",
+      "originalDescription": "51+FQhgTO0L._SL1000_",
+      "embeddedFile": "xl/media/image81.jpeg"
+    },
+    "ID_9BC905B90DD54F73AD66F2D4310F1567": {
+      "url": "/product-images/ID_9BC905B90DD54F73AD66F2D4310F1567.jpeg",
+      "thumbUrl": "/product-images/ID_9BC905B90DD54F73AD66F2D4310F1567.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_9BC905B90DD54F73AD66F2D4310F1567",
+      "originalDescription": "51Rm7vuaLQL._SL1000_",
+      "embeddedFile": "xl/media/image82.jpeg"
+    },
+    "ID_E30AA0E0DD094D62BD419B11D5240298": {
+      "url": "/product-images/ID_E30AA0E0DD094D62BD419B11D5240298.jpeg",
+      "thumbUrl": "/product-images/ID_E30AA0E0DD094D62BD419B11D5240298.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_E30AA0E0DD094D62BD419B11D5240298",
+      "originalDescription": "2",
+      "embeddedFile": "xl/media/image83.jpeg"
+    },
+    "ID_EEF1959B1D404082850CBF637D949670": {
+      "url": "/product-images/ID_EEF1959B1D404082850CBF637D949670.jpeg",
+      "thumbUrl": "/product-images/ID_EEF1959B1D404082850CBF637D949670.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_EEF1959B1D404082850CBF637D949670",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image84.jpeg"
+    },
+    "ID_D2FDCF61C4B748A59AB86E7ECA9D5C80": {
+      "url": "/product-images/ID_D2FDCF61C4B748A59AB86E7ECA9D5C80.png",
+      "thumbUrl": "/product-images/ID_D2FDCF61C4B748A59AB86E7ECA9D5C80.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_D2FDCF61C4B748A59AB86E7ECA9D5C80",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image85.png"
+    },
+    "ID_976D1197F3E04CF89550B9BC702C9498": {
+      "url": "/product-images/ID_976D1197F3E04CF89550B9BC702C9498.png",
+      "thumbUrl": "/product-images/ID_976D1197F3E04CF89550B9BC702C9498.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_976D1197F3E04CF89550B9BC702C9498",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image86.png"
+    },
+    "ID_7A2960AE47C14D1EA0A5F5D326F27FCE": {
+      "url": "/product-images/ID_7A2960AE47C14D1EA0A5F5D326F27FCE.jpeg",
+      "thumbUrl": "/product-images/ID_7A2960AE47C14D1EA0A5F5D326F27FCE.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_7A2960AE47C14D1EA0A5F5D326F27FCE",
+      "originalDescription": "610gW07MmzL._SL1024_",
+      "embeddedFile": "xl/media/image87.jpeg"
+    },
+    "ID_B0EFB1C6D80F4EFDA35B275A355DC7A9": {
+      "url": "/product-images/ID_B0EFB1C6D80F4EFDA35B275A355DC7A9.jpeg",
+      "thumbUrl": "/product-images/ID_B0EFB1C6D80F4EFDA35B275A355DC7A9.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_B0EFB1C6D80F4EFDA35B275A355DC7A9",
+      "originalDescription": "71jjXdmOh5L._SL1500_",
+      "embeddedFile": "xl/media/image88.jpeg"
+    },
+    "ID_CAA6619747974D4087E49C7417AEA1D9": {
+      "url": "/product-images/ID_CAA6619747974D4087E49C7417AEA1D9.jpeg",
+      "thumbUrl": "/product-images/ID_CAA6619747974D4087E49C7417AEA1D9.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_CAA6619747974D4087E49C7417AEA1D9",
+      "originalDescription": "71yHAErNuEL._SL1024_",
+      "embeddedFile": "xl/media/image89.jpeg"
+    },
+    "ID_1A274D488C26477BA3AF25594BFE5193": {
+      "url": "/product-images/ID_1A274D488C26477BA3AF25594BFE5193.jpeg",
+      "thumbUrl": "/product-images/ID_1A274D488C26477BA3AF25594BFE5193.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_1A274D488C26477BA3AF25594BFE5193",
+      "originalDescription": "81RAxxQVsWL._SL1500_",
+      "embeddedFile": "xl/media/image90.jpeg"
+    },
+    "ID_39F15FC035DD4F4499BAFCB51A334CD8": {
+      "url": "/product-images/ID_39F15FC035DD4F4499BAFCB51A334CD8.jpeg",
+      "thumbUrl": "/product-images/ID_39F15FC035DD4F4499BAFCB51A334CD8.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_39F15FC035DD4F4499BAFCB51A334CD8",
+      "originalDescription": "61w70SqhePL._SL1000_",
+      "embeddedFile": "xl/media/image91.jpeg"
+    },
+    "ID_720E0DA795D540F39B1856C542D0F626": {
+      "url": "/product-images/ID_720E0DA795D540F39B1856C542D0F626.jpeg",
+      "thumbUrl": "/product-images/ID_720E0DA795D540F39B1856C542D0F626.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_720E0DA795D540F39B1856C542D0F626",
+      "originalDescription": "51OxtFurf9L._SL1000_",
+      "embeddedFile": "xl/media/image92.jpeg"
+    },
+    "ID_5955709BF12A41208EF6882EBBB2EEE6": {
+      "url": "/product-images/ID_5955709BF12A41208EF6882EBBB2EEE6.jpeg",
+      "thumbUrl": "/product-images/ID_5955709BF12A41208EF6882EBBB2EEE6.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_5955709BF12A41208EF6882EBBB2EEE6",
+      "originalDescription": "51GbGBHNIuL._SL1000_",
+      "embeddedFile": "xl/media/image93.jpeg"
+    },
+    "ID_FD3E13B614D54D25BC321E759246BEEC": {
+      "url": "/product-images/ID_FD3E13B614D54D25BC321E759246BEEC.png",
+      "thumbUrl": "/product-images/ID_FD3E13B614D54D25BC321E759246BEEC.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_FD3E13B614D54D25BC321E759246BEEC",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image94.png"
+    },
+    "ID_BC3F30D47C914DD3886E1C78799DCE31": {
+      "url": "/product-images/ID_BC3F30D47C914DD3886E1C78799DCE31.jpeg",
+      "thumbUrl": "/product-images/ID_BC3F30D47C914DD3886E1C78799DCE31.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_BC3F30D47C914DD3886E1C78799DCE31",
+      "originalDescription": "71gTtlCTHZL._SL1080_",
+      "embeddedFile": "xl/media/image95.jpeg"
+    },
+    "ID_CDB27F429EAB49E992101D5B03535BD9": {
+      "url": "/product-images/ID_CDB27F429EAB49E992101D5B03535BD9.jpeg",
+      "thumbUrl": "/product-images/ID_CDB27F429EAB49E992101D5B03535BD9.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_CDB27F429EAB49E992101D5B03535BD9",
+      "originalDescription": "5175u2pLIlL._SL1000_",
+      "embeddedFile": "xl/media/image96.jpeg"
+    },
+    "ID_1FABC65A99714F9E8BB7943376FF2757": {
+      "url": "/product-images/ID_1FABC65A99714F9E8BB7943376FF2757.png",
+      "thumbUrl": "/product-images/ID_1FABC65A99714F9E8BB7943376FF2757.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_1FABC65A99714F9E8BB7943376FF2757",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image97.png"
+    },
+    "ID_212ABCA8636349298BD827346CA0046B": {
+      "url": "/product-images/ID_212ABCA8636349298BD827346CA0046B.jpeg",
+      "thumbUrl": "/product-images/ID_212ABCA8636349298BD827346CA0046B.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_212ABCA8636349298BD827346CA0046B",
+      "originalDescription": "2",
+      "embeddedFile": "xl/media/image98.jpeg"
+    },
+    "ID_A144A62E01B048E4868FB182A1DFAEE9": {
+      "url": "/product-images/ID_A144A62E01B048E4868FB182A1DFAEE9.jpeg",
+      "thumbUrl": "/product-images/ID_A144A62E01B048E4868FB182A1DFAEE9.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_A144A62E01B048E4868FB182A1DFAEE9",
+      "originalDescription": "112",
+      "embeddedFile": "xl/media/image99.jpeg"
+    },
+    "ID_8697E1C1357C41F49276FCABA7B39A96": {
+      "url": "/product-images/ID_8697E1C1357C41F49276FCABA7B39A96.jpeg",
+      "thumbUrl": "/product-images/ID_8697E1C1357C41F49276FCABA7B39A96.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_8697E1C1357C41F49276FCABA7B39A96",
+      "originalDescription": "11",
+      "embeddedFile": "xl/media/image100.jpeg"
+    },
+    "ID_89BD2BC470B9430AA4ECA154CE278B7D": {
+      "url": "/product-images/ID_89BD2BC470B9430AA4ECA154CE278B7D.jpeg",
+      "thumbUrl": "/product-images/ID_89BD2BC470B9430AA4ECA154CE278B7D.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_89BD2BC470B9430AA4ECA154CE278B7D",
+      "originalDescription": "高清1",
+      "embeddedFile": "xl/media/image101.jpeg"
+    },
+    "ID_D8212335E7F148CDABD2BF490B228788": {
+      "url": "/product-images/ID_D8212335E7F148CDABD2BF490B228788.jpeg",
+      "thumbUrl": "/product-images/ID_D8212335E7F148CDABD2BF490B228788.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_D8212335E7F148CDABD2BF490B228788",
+      "originalDescription": "71sw04BJu-L._SL1500_",
+      "embeddedFile": "xl/media/image102.jpeg"
+    },
+    "ID_086FE992085D44078F2BEDD75A53D705": {
+      "url": "/product-images/ID_086FE992085D44078F2BEDD75A53D705.jpeg",
+      "thumbUrl": "/product-images/ID_086FE992085D44078F2BEDD75A53D705.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_086FE992085D44078F2BEDD75A53D705",
+      "originalDescription": "61LHmYW9-XL._SL1200_",
+      "embeddedFile": "xl/media/image103.jpeg"
+    },
+    "ID_9C4165ED95EB4C6F826AEFDFBE4E1B95": {
+      "url": "/product-images/ID_9C4165ED95EB4C6F826AEFDFBE4E1B95.jpeg",
+      "thumbUrl": "/product-images/ID_9C4165ED95EB4C6F826AEFDFBE4E1B95.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_9C4165ED95EB4C6F826AEFDFBE4E1B95",
+      "originalDescription": "61uyymMWCAL._SL1500_",
+      "embeddedFile": "xl/media/image104.jpeg"
+    },
+    "ID_4A2365E697ED440EB3260971380BB9D4": {
+      "url": "/product-images/ID_4A2365E697ED440EB3260971380BB9D4.jpeg",
+      "thumbUrl": "/product-images/ID_4A2365E697ED440EB3260971380BB9D4.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_4A2365E697ED440EB3260971380BB9D4",
+      "originalDescription": "61S2fF-+TLL._SL1200_",
+      "embeddedFile": "xl/media/image105.jpeg"
+    },
+    "ID_86B468D7426E4A898E7808A930F6AFC4": {
+      "url": "/product-images/ID_86B468D7426E4A898E7808A930F6AFC4.jpeg",
+      "thumbUrl": "/product-images/ID_86B468D7426E4A898E7808A930F6AFC4.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_86B468D7426E4A898E7808A930F6AFC4",
+      "originalDescription": "71kulaGTROL._SL1500_",
+      "embeddedFile": "xl/media/image106.jpeg"
+    },
+    "ID_FE5428A4726C40B7A4D68D5C7788B3DE": {
+      "url": "/product-images/ID_FE5428A4726C40B7A4D68D5C7788B3DE.jpeg",
+      "thumbUrl": "/product-images/ID_FE5428A4726C40B7A4D68D5C7788B3DE.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_FE5428A4726C40B7A4D68D5C7788B3DE",
+      "originalDescription": "615n+cTcA8L._SL1200_",
+      "embeddedFile": "xl/media/image107.jpeg"
+    },
+    "ID_3B6819110EF1452EBA003D70D7CCFD04": {
+      "url": "/product-images/ID_3B6819110EF1452EBA003D70D7CCFD04.jpeg",
+      "thumbUrl": "/product-images/ID_3B6819110EF1452EBA003D70D7CCFD04.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_3B6819110EF1452EBA003D70D7CCFD04",
+      "originalDescription": "71qLxqmgHHL._SL1500_",
+      "embeddedFile": "xl/media/image108.jpeg"
+    },
+    "ID_EF7487EDB7244B20A5FB756FA649B298": {
+      "url": "/product-images/ID_EF7487EDB7244B20A5FB756FA649B298.jpeg",
+      "thumbUrl": "/product-images/ID_EF7487EDB7244B20A5FB756FA649B298.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_EF7487EDB7244B20A5FB756FA649B298",
+      "originalDescription": "61FKYrYo3gL._SL1500_",
+      "embeddedFile": "xl/media/image109.jpeg"
+    },
+    "ID_E9867A16AA6147A3BA68FD450E6E4CF2": {
+      "url": "/product-images/ID_E9867A16AA6147A3BA68FD450E6E4CF2.jpeg",
+      "thumbUrl": "/product-images/ID_E9867A16AA6147A3BA68FD450E6E4CF2.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_E9867A16AA6147A3BA68FD450E6E4CF2",
+      "originalDescription": "61lbuzSphqL._SL1500_",
+      "embeddedFile": "xl/media/image110.jpeg"
+    },
+    "ID_71F5771472564EA592DDBF944F4A9067": {
+      "url": "/product-images/ID_71F5771472564EA592DDBF944F4A9067.jpeg",
+      "thumbUrl": "/product-images/ID_71F5771472564EA592DDBF944F4A9067.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_71F5771472564EA592DDBF944F4A9067",
+      "originalDescription": "61H6+xddQAL._SL1500_",
+      "embeddedFile": "xl/media/image111.jpeg"
+    },
+    "ID_9CA5BC65A0674BA3BD7C07EF695A2F6C": {
+      "url": "/product-images/ID_9CA5BC65A0674BA3BD7C07EF695A2F6C.jpeg",
+      "thumbUrl": "/product-images/ID_9CA5BC65A0674BA3BD7C07EF695A2F6C.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_9CA5BC65A0674BA3BD7C07EF695A2F6C",
+      "originalDescription": "51fZGhYxKQL._SL1200_",
+      "embeddedFile": "xl/media/image112.jpeg"
+    },
+    "ID_159BE3E374A948708938DEC96F8043EB": {
+      "url": "/product-images/ID_159BE3E374A948708938DEC96F8043EB.jpeg",
+      "thumbUrl": "/product-images/ID_159BE3E374A948708938DEC96F8043EB.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_159BE3E374A948708938DEC96F8043EB",
+      "originalDescription": "61xilD00J2L._SL1500_",
+      "embeddedFile": "xl/media/image113.jpeg"
+    },
+    "ID_56C8E51EDF3841FA98884D12C150926E": {
+      "url": "/product-images/ID_56C8E51EDF3841FA98884D12C150926E.jpeg",
+      "thumbUrl": "/product-images/ID_56C8E51EDF3841FA98884D12C150926E.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_56C8E51EDF3841FA98884D12C150926E",
+      "originalDescription": "71Uum7+TzcL._SL1500_",
+      "embeddedFile": "xl/media/image114.jpeg"
+    },
+    "ID_462B8DF47C8140EC9353348F9078CD48": {
+      "url": "/product-images/ID_462B8DF47C8140EC9353348F9078CD48.jpeg",
+      "thumbUrl": "/product-images/ID_462B8DF47C8140EC9353348F9078CD48.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_462B8DF47C8140EC9353348F9078CD48",
+      "originalDescription": "61l8JbP3zdL._SL1500_",
+      "embeddedFile": "xl/media/image115.jpeg"
+    },
+    "ID_ACC54345EFFE44C7818B54F9E3D3579E": {
+      "url": "/product-images/ID_ACC54345EFFE44C7818B54F9E3D3579E.jpeg",
+      "thumbUrl": "/product-images/ID_ACC54345EFFE44C7818B54F9E3D3579E.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_ACC54345EFFE44C7818B54F9E3D3579E",
+      "originalDescription": "61aqP3LEC+L._SL1500_",
+      "embeddedFile": "xl/media/image116.jpeg"
+    },
+    "ID_BE922DFA00BE4C2F83561CAEC32C86FD": {
+      "url": "/product-images/ID_BE922DFA00BE4C2F83561CAEC32C86FD.png",
+      "thumbUrl": "/product-images/ID_BE922DFA00BE4C2F83561CAEC32C86FD.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_BE922DFA00BE4C2F83561CAEC32C86FD",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image117.png"
+    },
+    "ID_CA44688A31074432A440D65D6AF17CA6": {
+      "url": "/product-images/ID_CA44688A31074432A440D65D6AF17CA6.png",
+      "thumbUrl": "/product-images/ID_CA44688A31074432A440D65D6AF17CA6.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_CA44688A31074432A440D65D6AF17CA6",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image118.png"
+    },
+    "ID_A93397A6DF814032BC03F50DC06D63D2": {
+      "url": "/product-images/ID_A93397A6DF814032BC03F50DC06D63D2.jpeg",
+      "thumbUrl": "/product-images/ID_A93397A6DF814032BC03F50DC06D63D2.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_A93397A6DF814032BC03F50DC06D63D2",
+      "originalDescription": "51Dkv7sgXfL._SL1080_",
+      "embeddedFile": "xl/media/image119.jpeg"
+    },
+    "ID_EE6C06CAAF3D4E05AB4634F47D2F493F": {
+      "url": "/product-images/ID_EE6C06CAAF3D4E05AB4634F47D2F493F.jpeg",
+      "thumbUrl": "/product-images/ID_EE6C06CAAF3D4E05AB4634F47D2F493F.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_EE6C06CAAF3D4E05AB4634F47D2F493F",
+      "originalDescription": "51Dkv7sgXfL._SL1080_",
+      "embeddedFile": "xl/media/image120.jpeg"
+    },
+    "ID_2415C5EDC5124DCCBADD85D3FE4B2E16": {
+      "url": "/product-images/ID_2415C5EDC5124DCCBADD85D3FE4B2E16.jpeg",
+      "thumbUrl": "/product-images/ID_2415C5EDC5124DCCBADD85D3FE4B2E16.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_2415C5EDC5124DCCBADD85D3FE4B2E16",
+      "originalDescription": "61G0TjYEmjL._SL1500_",
+      "embeddedFile": "xl/media/image121.jpeg"
+    },
+    "ID_525E99F351124F2ABF64834B6778F15A": {
+      "url": "/product-images/ID_525E99F351124F2ABF64834B6778F15A.jpeg",
+      "thumbUrl": "/product-images/ID_525E99F351124F2ABF64834B6778F15A.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_525E99F351124F2ABF64834B6778F15A",
+      "originalDescription": "61cgsmNZXtL._SL1080_",
+      "embeddedFile": "xl/media/image122.jpeg"
+    },
+    "ID_6E16D256695344949CA351235021FDB5": {
+      "url": "/product-images/ID_6E16D256695344949CA351235021FDB5.jpeg",
+      "thumbUrl": "/product-images/ID_6E16D256695344949CA351235021FDB5.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_6E16D256695344949CA351235021FDB5",
+      "originalDescription": "C:/Users/16222/Desktop/Top Shelf（顶级货架）/原图/1.69 FL.OZ.jpg1.69 FL.OZ",
+      "embeddedFile": "xl/media/image123.jpeg"
+    },
+    "ID_B76FB0B44B114FC288904D64F2602601": {
+      "url": "/product-images/ID_B76FB0B44B114FC288904D64F2602601.png",
+      "thumbUrl": "/product-images/ID_B76FB0B44B114FC288904D64F2602601.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_B76FB0B44B114FC288904D64F2602601",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image124.png"
+    },
+    "ID_43DDD031A4CF4DC6AAA849C599A3C726": {
+      "url": "/product-images/ID_43DDD031A4CF4DC6AAA849C599A3C726.png",
+      "thumbUrl": "/product-images/ID_43DDD031A4CF4DC6AAA849C599A3C726.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_43DDD031A4CF4DC6AAA849C599A3C726",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image125.png"
+    },
+    "ID_C9B943E3344948259ACAC5F7CD45935D": {
+      "url": "/product-images/ID_C9B943E3344948259ACAC5F7CD45935D.png",
+      "thumbUrl": "/product-images/ID_C9B943E3344948259ACAC5F7CD45935D.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_C9B943E3344948259ACAC5F7CD45935D",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image126.png"
+    },
+    "ID_AE8313CF5A3543C28E590E6AFA376A8A": {
+      "url": "/product-images/ID_AE8313CF5A3543C28E590E6AFA376A8A.png",
+      "thumbUrl": "/product-images/ID_AE8313CF5A3543C28E590E6AFA376A8A.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_AE8313CF5A3543C28E590E6AFA376A8A",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image127.png"
+    },
+    "ID_F57BD8E8B20244879DE57B7B32D1316E": {
+      "url": "/product-images/ID_F57BD8E8B20244879DE57B7B32D1316E.jpeg",
+      "thumbUrl": "/product-images/ID_F57BD8E8B20244879DE57B7B32D1316E.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_F57BD8E8B20244879DE57B7B32D1316E",
+      "originalDescription": "C:/Users/16222/Desktop/链接图片/Hawas For Him( 哈瓦斯男士)/原图/41h72rzs3zL..jpg41h72rzs3zL.",
+      "embeddedFile": "xl/media/image128.jpeg"
+    },
+    "ID_331B342393384A07BFBAD4C681FB0786": {
+      "url": "/product-images/ID_331B342393384A07BFBAD4C681FB0786.png",
+      "thumbUrl": "/product-images/ID_331B342393384A07BFBAD4C681FB0786.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_331B342393384A07BFBAD4C681FB0786",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image129.png"
+    },
+    "ID_2ADC0AAD925248BCB236655AC58B6A35": {
+      "url": "/product-images/ID_2ADC0AAD925248BCB236655AC58B6A35.webp",
+      "thumbUrl": "/product-images/ID_2ADC0AAD925248BCB236655AC58B6A35.webp",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_2ADC0AAD925248BCB236655AC58B6A35",
+      "originalDescription": "1",
+      "embeddedFile": "xl/media/image130.webp"
+    },
+    "ID_91FDCD59A59B46A2A3335145CCA9D9B4": {
+      "url": "/product-images/ID_91FDCD59A59B46A2A3335145CCA9D9B4.png",
+      "thumbUrl": "/product-images/ID_91FDCD59A59B46A2A3335145CCA9D9B4.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_91FDCD59A59B46A2A3335145CCA9D9B4",
+      "originalDescription": "C:/Users/16222/Desktop/链接图片/Hawas For Him( 哈瓦斯男士)/原图/新对话.png新对话",
+      "embeddedFile": "xl/media/image131.png"
+    },
+    "ID_ED5111435DC143768B5E7E4075E826FF": {
+      "url": "/product-images/ID_ED5111435DC143768B5E7E4075E826FF.jpeg",
+      "thumbUrl": "/product-images/ID_ED5111435DC143768B5E7E4075E826FF.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_ED5111435DC143768B5E7E4075E826FF",
+      "originalDescription": "81VnIvSoOlL._SL1500_",
+      "embeddedFile": "xl/media/image132.jpeg"
+    },
+    "ID_599B64411A52459A86748811E3DFC752": {
+      "url": "/product-images/ID_599B64411A52459A86748811E3DFC752.jpeg",
+      "thumbUrl": "/product-images/ID_599B64411A52459A86748811E3DFC752.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_599B64411A52459A86748811E3DFC752",
+      "originalDescription": "61HM1PlS+zL._SL1080_",
+      "embeddedFile": "xl/media/image133.jpeg"
+    },
+    "ID_940BA60E32F34C9A8C5997C5940CFA95": {
+      "url": "/product-images/ID_940BA60E32F34C9A8C5997C5940CFA95.jpeg",
+      "thumbUrl": "/product-images/ID_940BA60E32F34C9A8C5997C5940CFA95.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_940BA60E32F34C9A8C5997C5940CFA95",
+      "originalDescription": "C:/Users/16222/Desktop/链接图片/Hawas For Him( 哈瓦斯男士)/原图/41ggysnZYgL..jpg41ggysnZYgL.",
+      "embeddedFile": "xl/media/image134.jpeg"
+    },
+    "ID_E80CA92505E04F0DA0D5CDEBD015F493": {
+      "url": "/product-images/ID_E80CA92505E04F0DA0D5CDEBD015F493.png",
+      "thumbUrl": "/product-images/ID_E80CA92505E04F0DA0D5CDEBD015F493.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_E80CA92505E04F0DA0D5CDEBD015F493",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image135.png"
+    },
+    "ID_9DC5AD74062D42C6AF794F6A58F02B3B": {
+      "url": "/product-images/ID_9DC5AD74062D42C6AF794F6A58F02B3B.jpeg",
+      "thumbUrl": "/product-images/ID_9DC5AD74062D42C6AF794F6A58F02B3B.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_9DC5AD74062D42C6AF794F6A58F02B3B",
+      "originalDescription": "C:/Users/16222/Desktop/链接图片/Hawas For Him( 哈瓦斯男士)/原图/41+eUuHoSUL..jpg41+eUuHoSUL.",
+      "embeddedFile": "xl/media/image136.jpeg"
+    },
+    "ID_891A1355A0614B1BB4A418940E67CFF8": {
+      "url": "/product-images/ID_891A1355A0614B1BB4A418940E67CFF8.jpeg",
+      "thumbUrl": "/product-images/ID_891A1355A0614B1BB4A418940E67CFF8.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_891A1355A0614B1BB4A418940E67CFF8",
+      "originalDescription": "2",
+      "embeddedFile": "xl/media/image137.jpeg"
+    },
+    "ID_140749AEE31541FB9A4F29E159E1860D": {
+      "url": "/product-images/ID_140749AEE31541FB9A4F29E159E1860D.png",
+      "thumbUrl": "/product-images/ID_140749AEE31541FB9A4F29E159E1860D.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_140749AEE31541FB9A4F29E159E1860D",
+      "originalDescription": "WechatIMG1769",
+      "embeddedFile": "xl/media/image138.png"
+    },
+    "ID_B642D213BA1643A1AB12F6D6C1AAE783": {
+      "url": "/product-images/ID_B642D213BA1643A1AB12F6D6C1AAE783.png",
+      "thumbUrl": "/product-images/ID_B642D213BA1643A1AB12F6D6C1AAE783.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_B642D213BA1643A1AB12F6D6C1AAE783",
+      "originalDescription": "WechatIMG100",
+      "embeddedFile": "xl/media/image139.png"
+    },
+    "ID_78E6C12912F04923A1F0705B616E2BAA": {
+      "url": "/product-images/ID_78E6C12912F04923A1F0705B616E2BAA.jpeg",
+      "thumbUrl": "/product-images/ID_78E6C12912F04923A1F0705B616E2BAA.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_78E6C12912F04923A1F0705B616E2BAA",
+      "originalDescription": "WechatIMG348",
+      "embeddedFile": "xl/media/image140.jpeg"
+    },
+    "ID_74E150A2655F447793BDEE3D875C1D61": {
+      "url": "/product-images/ID_74E150A2655F447793BDEE3D875C1D61.png",
+      "thumbUrl": "/product-images/ID_74E150A2655F447793BDEE3D875C1D61.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_74E150A2655F447793BDEE3D875C1D61",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image141.png"
+    },
+    "ID_78B60BB5E9F342F383A3AC172AD86576": {
+      "url": "/product-images/ID_78B60BB5E9F342F383A3AC172AD86576.png",
+      "thumbUrl": "/product-images/ID_78B60BB5E9F342F383A3AC172AD86576.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_78B60BB5E9F342F383A3AC172AD86576",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image142.png"
+    },
+    "ID_E894F1E599EC4C6F92A7AE0AA571066F": {
+      "url": "/product-images/ID_E894F1E599EC4C6F92A7AE0AA571066F.png",
+      "thumbUrl": "/product-images/ID_E894F1E599EC4C6F92A7AE0AA571066F.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_E894F1E599EC4C6F92A7AE0AA571066F",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image143.png"
+    },
+    "ID_B8B29C9FEEE1428993FCE279D65C9F87": {
+      "url": "/product-images/ID_B8B29C9FEEE1428993FCE279D65C9F87.jpeg",
+      "thumbUrl": "/product-images/ID_B8B29C9FEEE1428993FCE279D65C9F87.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_B8B29C9FEEE1428993FCE279D65C9F87",
+      "originalDescription": "C:/Users/16222/Desktop/链接图片/Marshmallow Blush（棉花糖腮红）/原图/41xlxZOO4qL..jpg41xlxZOO4qL.",
+      "embeddedFile": "xl/media/image144.jpeg"
+    },
+    "ID_F975FCCDF85E42D6BB5BA8612A840B10": {
+      "url": "/product-images/ID_F975FCCDF85E42D6BB5BA8612A840B10.png",
+      "thumbUrl": "/product-images/ID_F975FCCDF85E42D6BB5BA8612A840B10.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_F975FCCDF85E42D6BB5BA8612A840B10",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image145.png"
+    },
+    "ID_2FBAA6F0F15144B5BD3592B9D8DAB89D": {
+      "url": "/product-images/ID_2FBAA6F0F15144B5BD3592B9D8DAB89D.png",
+      "thumbUrl": "/product-images/ID_2FBAA6F0F15144B5BD3592B9D8DAB89D.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_2FBAA6F0F15144B5BD3592B9D8DAB89D",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image146.png"
+    },
+    "ID_2EE3500DD3DA4973B5FA9DCDF627A47F": {
+      "url": "/product-images/ID_2EE3500DD3DA4973B5FA9DCDF627A47F.png",
+      "thumbUrl": "/product-images/ID_2EE3500DD3DA4973B5FA9DCDF627A47F.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_2EE3500DD3DA4973B5FA9DCDF627A47F",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image147.png"
+    },
+    "ID_56B6A30423DC4C6B9478ED647BA19398": {
+      "url": "/product-images/ID_56B6A30423DC4C6B9478ED647BA19398.png",
+      "thumbUrl": "/product-images/ID_56B6A30423DC4C6B9478ED647BA19398.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_56B6A30423DC4C6B9478ED647BA19398",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image148.png"
+    },
+    "ID_2BEB53D9D54F4E3098A9C2D597FE0941": {
+      "url": "/product-images/ID_2BEB53D9D54F4E3098A9C2D597FE0941.png",
+      "thumbUrl": "/product-images/ID_2BEB53D9D54F4E3098A9C2D597FE0941.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_2BEB53D9D54F4E3098A9C2D597FE0941",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image149.png"
+    },
+    "ID_611439C0E39B45E092A3B72C8AC0E231": {
+      "url": "/product-images/ID_611439C0E39B45E092A3B72C8AC0E231.png",
+      "thumbUrl": "/product-images/ID_611439C0E39B45E092A3B72C8AC0E231.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_611439C0E39B45E092A3B72C8AC0E231",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image150.png"
+    },
+    "ID_5033B3D8D7D24B069908FDE8C6BCFDE1": {
+      "url": "/product-images/ID_5033B3D8D7D24B069908FDE8C6BCFDE1.jpeg",
+      "thumbUrl": "/product-images/ID_5033B3D8D7D24B069908FDE8C6BCFDE1.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_5033B3D8D7D24B069908FDE8C6BCFDE1",
+      "originalDescription": "51O790EHZXL._SL1080_",
+      "embeddedFile": "xl/media/image151.jpeg"
+    },
+    "ID_79F3267BACDC402D896845DDE2A65ABE": {
+      "url": "/product-images/ID_79F3267BACDC402D896845DDE2A65ABE.jpeg",
+      "thumbUrl": "/product-images/ID_79F3267BACDC402D896845DDE2A65ABE.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_79F3267BACDC402D896845DDE2A65ABE",
+      "originalDescription": "1",
+      "embeddedFile": "xl/media/image152.jpeg"
+    },
+    "ID_73C8524C89AB48EBB787A4F3F8EB431C": {
+      "url": "/product-images/ID_73C8524C89AB48EBB787A4F3F8EB431C.jpeg",
+      "thumbUrl": "/product-images/ID_73C8524C89AB48EBB787A4F3F8EB431C.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_73C8524C89AB48EBB787A4F3F8EB431C",
+      "originalDescription": "1",
+      "embeddedFile": "xl/media/image153.jpeg"
+    },
+    "ID_04D39FE1481B405899205FA17BED0C4F": {
+      "url": "/product-images/ID_04D39FE1481B405899205FA17BED0C4F.jpeg",
+      "thumbUrl": "/product-images/ID_04D39FE1481B405899205FA17BED0C4F.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_04D39FE1481B405899205FA17BED0C4F",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image154.jpeg"
+    },
+    "ID_649E863A2777421C9F4EFDB60FE6BF50": {
+      "url": "/product-images/ID_649E863A2777421C9F4EFDB60FE6BF50.jpeg",
+      "thumbUrl": "/product-images/ID_649E863A2777421C9F4EFDB60FE6BF50.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_649E863A2777421C9F4EFDB60FE6BF50",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image155.jpeg"
+    },
+    "ID_5090E2D73EB9492E92446DA6C02EE599": {
+      "url": "/product-images/ID_5090E2D73EB9492E92446DA6C02EE599.png",
+      "thumbUrl": "/product-images/ID_5090E2D73EB9492E92446DA6C02EE599.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_5090E2D73EB9492E92446DA6C02EE599",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image156.png"
+    },
+    "ID_F0F12C42F2E64749B864182DA492E6F6": {
+      "url": "/product-images/ID_F0F12C42F2E64749B864182DA492E6F6.jpeg",
+      "thumbUrl": "/product-images/ID_F0F12C42F2E64749B864182DA492E6F6.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_F0F12C42F2E64749B864182DA492E6F6",
+      "originalDescription": "WeChat5a79c48376a69f9dd2841a8061117acd",
+      "embeddedFile": "xl/media/image157.jpeg"
+    },
+    "ID_D2F55A8A79B9437B8D62E4026046ADAD": {
+      "url": "/product-images/ID_D2F55A8A79B9437B8D62E4026046ADAD.jpeg",
+      "thumbUrl": "/product-images/ID_D2F55A8A79B9437B8D62E4026046ADAD.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_D2F55A8A79B9437B8D62E4026046ADAD",
+      "originalDescription": "WeChat5942572981b6c0870952e136d43916a6",
+      "embeddedFile": "xl/media/image158.jpeg"
+    },
+    "ID_04834A875A774F7C8F4114D318A84044": {
+      "url": "/product-images/ID_04834A875A774F7C8F4114D318A84044.jpeg",
+      "thumbUrl": "/product-images/ID_04834A875A774F7C8F4114D318A84044.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_04834A875A774F7C8F4114D318A84044",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image159.jpeg"
+    },
+    "ID_F8073AF5E1EF46B385CA7AAB7F9A6588": {
+      "url": "/product-images/ID_F8073AF5E1EF46B385CA7AAB7F9A6588.png",
+      "thumbUrl": "/product-images/ID_F8073AF5E1EF46B385CA7AAB7F9A6588.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_F8073AF5E1EF46B385CA7AAB7F9A6588",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image160.png"
+    },
+    "ID_03E40A7734964D6BBF213825A527E055": {
+      "url": "/product-images/ID_03E40A7734964D6BBF213825A527E055.jpeg",
+      "thumbUrl": "/product-images/ID_03E40A7734964D6BBF213825A527E055.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_03E40A7734964D6BBF213825A527E055",
+      "originalDescription": "1",
+      "embeddedFile": "xl/media/image161.jpeg"
+    },
+    "ID_B8515523396F4B339AF575B74632A8FD": {
+      "url": "/product-images/ID_B8515523396F4B339AF575B74632A8FD.jpeg",
+      "thumbUrl": "/product-images/ID_B8515523396F4B339AF575B74632A8FD.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_B8515523396F4B339AF575B74632A8FD",
+      "originalDescription": "1",
+      "embeddedFile": "xl/media/image162.jpeg"
+    },
+    "ID_2B190388B36546588A5567CDD99229EC": {
+      "url": "/product-images/ID_2B190388B36546588A5567CDD99229EC.jpeg",
+      "thumbUrl": "/product-images/ID_2B190388B36546588A5567CDD99229EC.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_2B190388B36546588A5567CDD99229EC",
+      "originalDescription": "61tCGciCykL._SL1500_",
+      "embeddedFile": "xl/media/image163.jpeg"
+    },
+    "ID_D05F3E7DFBE048578919188C6CAA8022": {
+      "url": "/product-images/ID_D05F3E7DFBE048578919188C6CAA8022.jpeg",
+      "thumbUrl": "/product-images/ID_D05F3E7DFBE048578919188C6CAA8022.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_D05F3E7DFBE048578919188C6CAA8022",
+      "originalDescription": "61FJ78nLoIL._SL1500_",
+      "embeddedFile": "xl/media/image164.jpeg"
+    },
+    "ID_0EB208996A704804B027394FDE305322": {
+      "url": "/product-images/ID_0EB208996A704804B027394FDE305322.jpeg",
+      "thumbUrl": "/product-images/ID_0EB208996A704804B027394FDE305322.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_0EB208996A704804B027394FDE305322",
+      "originalDescription": "61nkCltKCaL._SL1500_",
+      "embeddedFile": "xl/media/image165.jpeg"
+    },
+    "ID_8E4813A952364ECFB8EEE299ADEA352E": {
+      "url": "/product-images/ID_8E4813A952364ECFB8EEE299ADEA352E.jpeg",
+      "thumbUrl": "/product-images/ID_8E4813A952364ECFB8EEE299ADEA352E.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_8E4813A952364ECFB8EEE299ADEA352E",
+      "originalDescription": "61a92zq16TL._SL1500_",
+      "embeddedFile": "xl/media/image166.jpeg"
+    },
+    "ID_1562E1FE924146C98C4CAFED6ADC335F": {
+      "url": "/product-images/ID_1562E1FE924146C98C4CAFED6ADC335F.jpeg",
+      "thumbUrl": "/product-images/ID_1562E1FE924146C98C4CAFED6ADC335F.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_1562E1FE924146C98C4CAFED6ADC335F",
+      "originalDescription": "61zY8kAVR5L._SL1500_",
+      "embeddedFile": "xl/media/image167.jpeg"
+    },
+    "ID_BBB12CCBE24246FA982EF2D19D85728D": {
+      "url": "/product-images/ID_BBB12CCBE24246FA982EF2D19D85728D.jpeg",
+      "thumbUrl": "/product-images/ID_BBB12CCBE24246FA982EF2D19D85728D.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_BBB12CCBE24246FA982EF2D19D85728D",
+      "originalDescription": "6189CMYvraL._SL1500_",
+      "embeddedFile": "xl/media/image168.jpeg"
+    },
+    "ID_26D8E7F3C99444CBB16ADE82E968C494": {
+      "url": "/product-images/ID_26D8E7F3C99444CBB16ADE82E968C494.png",
+      "thumbUrl": "/product-images/ID_26D8E7F3C99444CBB16ADE82E968C494.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_26D8E7F3C99444CBB16ADE82E968C494",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image169.png"
+    },
+    "ID_A1AAED8EF7BA43CCB2A5088FF7FB8AD7": {
+      "url": "/product-images/ID_A1AAED8EF7BA43CCB2A5088FF7FB8AD7.jpeg",
+      "thumbUrl": "/product-images/ID_A1AAED8EF7BA43CCB2A5088FF7FB8AD7.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_A1AAED8EF7BA43CCB2A5088FF7FB8AD7",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image170.jpeg"
+    },
+    "ID_EAFCB8DD34C2497FAAD3552072DC982F": {
+      "url": "/product-images/ID_EAFCB8DD34C2497FAAD3552072DC982F.jpeg",
+      "thumbUrl": "/product-images/ID_EAFCB8DD34C2497FAAD3552072DC982F.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_EAFCB8DD34C2497FAAD3552072DC982F",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image171.jpeg"
+    },
+    "ID_E1975C69E17F4543B010F4FEE138ED3C": {
+      "url": "/product-images/ID_E1975C69E17F4543B010F4FEE138ED3C.jpeg",
+      "thumbUrl": "/product-images/ID_E1975C69E17F4543B010F4FEE138ED3C.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_E1975C69E17F4543B010F4FEE138ED3C",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image172.jpeg"
+    },
+    "ID_5CEDB42E48804C76AECC57E059BB3696": {
+      "url": "/product-images/ID_5CEDB42E48804C76AECC57E059BB3696.jpeg",
+      "thumbUrl": "/product-images/ID_5CEDB42E48804C76AECC57E059BB3696.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_5CEDB42E48804C76AECC57E059BB3696",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image173.jpeg"
+    },
+    "ID_D820F1EB64F1478C85CFB4E7CC609758": {
+      "url": "/product-images/ID_D820F1EB64F1478C85CFB4E7CC609758.jpeg",
+      "thumbUrl": "/product-images/ID_D820F1EB64F1478C85CFB4E7CC609758.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_D820F1EB64F1478C85CFB4E7CC609758",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image174.jpeg"
+    },
+    "ID_75DD1A8BBCB94F28996E065D469C8D53": {
+      "url": "/product-images/ID_75DD1A8BBCB94F28996E065D469C8D53.jpeg",
+      "thumbUrl": "/product-images/ID_75DD1A8BBCB94F28996E065D469C8D53.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_75DD1A8BBCB94F28996E065D469C8D53",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image175.jpeg"
+    },
+    "ID_E3F0A25D386B4B5581E671293DB5D6E8": {
+      "url": "/product-images/ID_E3F0A25D386B4B5581E671293DB5D6E8.jpeg",
+      "thumbUrl": "/product-images/ID_E3F0A25D386B4B5581E671293DB5D6E8.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_E3F0A25D386B4B5581E671293DB5D6E8",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image176.jpeg"
+    },
+    "ID_BC0205CA1F2A4C9CAA3E6F08A73E5462": {
+      "url": "/product-images/ID_BC0205CA1F2A4C9CAA3E6F08A73E5462.jpeg",
+      "thumbUrl": "/product-images/ID_BC0205CA1F2A4C9CAA3E6F08A73E5462.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_BC0205CA1F2A4C9CAA3E6F08A73E5462",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image177.jpeg"
+    },
+    "ID_3908F30B3CB84D2D90F6CD28CDCC6057": {
+      "url": "/product-images/ID_3908F30B3CB84D2D90F6CD28CDCC6057.jpeg",
+      "thumbUrl": "/product-images/ID_3908F30B3CB84D2D90F6CD28CDCC6057.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_3908F30B3CB84D2D90F6CD28CDCC6057",
+      "originalDescription": "WeChat4cfa2610c89c509a27726a9e1a7a4095",
+      "embeddedFile": "xl/media/image178.jpeg"
+    },
+    "ID_0EDFFA13296E4A1385FC8865D1407A32": {
+      "url": "/product-images/ID_0EDFFA13296E4A1385FC8865D1407A32.png",
+      "thumbUrl": "/product-images/ID_0EDFFA13296E4A1385FC8865D1407A32.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_0EDFFA13296E4A1385FC8865D1407A32",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image179.png"
+    },
+    "ID_5B42790AAC1F48968DE91540CDBCA6E0": {
+      "url": "/product-images/ID_5B42790AAC1F48968DE91540CDBCA6E0.png",
+      "thumbUrl": "/product-images/ID_5B42790AAC1F48968DE91540CDBCA6E0.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_5B42790AAC1F48968DE91540CDBCA6E0",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image180.png"
+    },
+    "ID_4819AE1CB14F4A87BE5658979AE0502C": {
+      "url": "/product-images/ID_4819AE1CB14F4A87BE5658979AE0502C.png",
+      "thumbUrl": "/product-images/ID_4819AE1CB14F4A87BE5658979AE0502C.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_4819AE1CB14F4A87BE5658979AE0502C",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image181.png"
+    },
+    "ID_D2C7C40EAC294DE3A364FEA82C65B958": {
+      "url": "/product-images/ID_D2C7C40EAC294DE3A364FEA82C65B958.jpeg",
+      "thumbUrl": "/product-images/ID_D2C7C40EAC294DE3A364FEA82C65B958.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_D2C7C40EAC294DE3A364FEA82C65B958",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image182.jpeg"
+    },
+    "ID_733C65A326DF4C818A015E3A5D91262E": {
+      "url": "/product-images/ID_733C65A326DF4C818A015E3A5D91262E.jpeg",
+      "thumbUrl": "/product-images/ID_733C65A326DF4C818A015E3A5D91262E.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_733C65A326DF4C818A015E3A5D91262E",
+      "originalDescription": "C:/Users/16222/Desktop/产品集合/ana-jin/主.jpg主",
+      "embeddedFile": "xl/media/image183.jpeg"
+    },
+    "ID_EC29B9E048DE4338B18030C74AE16FCE": {
+      "url": "/product-images/ID_EC29B9E048DE4338B18030C74AE16FCE.jpeg",
+      "thumbUrl": "/product-images/ID_EC29B9E048DE4338B18030C74AE16FCE.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_EC29B9E048DE4338B18030C74AE16FCE",
+      "originalDescription": "C:/Users/16222/Desktop/ana-white/主.jpg主",
+      "embeddedFile": "xl/media/image184.jpeg"
+    },
+    "ID_24D7DC0FC0F745C280928795AA33D7DA": {
+      "url": "/product-images/ID_24D7DC0FC0F745C280928795AA33D7DA.jpeg",
+      "thumbUrl": "/product-images/ID_24D7DC0FC0F745C280928795AA33D7DA.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_24D7DC0FC0F745C280928795AA33D7DA",
+      "originalDescription": "C:/Users/16222/Desktop/产品集合/ana-fen/主.jpg主",
+      "embeddedFile": "xl/media/image185.jpeg"
+    },
+    "ID_7AB70B6A39744D38955D1AF323E436A0": {
+      "url": "/product-images/ID_7AB70B6A39744D38955D1AF323E436A0.jpeg",
+      "thumbUrl": "/product-images/ID_7AB70B6A39744D38955D1AF323E436A0.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_7AB70B6A39744D38955D1AF323E436A0",
+      "originalDescription": "C:/Users/16222/Desktop/ana-red/主.jpg主",
+      "embeddedFile": "xl/media/image186.jpeg"
+    },
+    "ID_C5B4F8272C114492BC530434A8F2C262": {
+      "url": "/product-images/ID_C5B4F8272C114492BC530434A8F2C262.png",
+      "thumbUrl": "/product-images/ID_C5B4F8272C114492BC530434A8F2C262.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_C5B4F8272C114492BC530434A8F2C262",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image187.png"
+    },
+    "ID_EC79A7266627407E96A8109609FFAE2F": {
+      "url": "/product-images/ID_EC79A7266627407E96A8109609FFAE2F.png",
+      "thumbUrl": "/product-images/ID_EC79A7266627407E96A8109609FFAE2F.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_EC79A7266627407E96A8109609FFAE2F",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image188.png"
+    },
+    "ID_BD91131EAC3346ADA86CAB40AF8EEFB8": {
+      "url": "/product-images/ID_BD91131EAC3346ADA86CAB40AF8EEFB8.png",
+      "thumbUrl": "/product-images/ID_BD91131EAC3346ADA86CAB40AF8EEFB8.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_BD91131EAC3346ADA86CAB40AF8EEFB8",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image189.png"
+    },
+    "ID_4BB9271B56574D4A9996E3FABBCD7F88": {
+      "url": "/product-images/ID_4BB9271B56574D4A9996E3FABBCD7F88.jpeg",
+      "thumbUrl": "/product-images/ID_4BB9271B56574D4A9996E3FABBCD7F88.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_4BB9271B56574D4A9996E3FABBCD7F88",
+      "originalDescription": "C:/Users/16222/Desktop/luolan-lan/主.jpg主",
+      "embeddedFile": "xl/media/image190.jpeg"
+    },
+    "ID_1D414E7060C0494D9CF5B5F1590B4A9D": {
+      "url": "/product-images/ID_1D414E7060C0494D9CF5B5F1590B4A9D.jpeg",
+      "thumbUrl": "/product-images/ID_1D414E7060C0494D9CF5B5F1590B4A9D.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_1D414E7060C0494D9CF5B5F1590B4A9D",
+      "originalDescription": "C:/Users/16222/Desktop/LY-SHENGNV-JIN-2/主.jpg主",
+      "embeddedFile": "xl/media/image191.jpeg"
+    },
+    "ID_B4069F26A4D44D17B86DF3DCB390C403": {
+      "url": "/product-images/ID_B4069F26A4D44D17B86DF3DCB390C403.jpeg",
+      "thumbUrl": "/product-images/ID_B4069F26A4D44D17B86DF3DCB390C403.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_B4069F26A4D44D17B86DF3DCB390C403",
+      "originalDescription": "C:/Users/16222/Desktop/Santal 33/主.jpg主",
+      "embeddedFile": "xl/media/image192.jpeg"
+    },
+    "ID_A796D1094C5248DCA4542A8354ACEB8C": {
+      "url": "/product-images/ID_A796D1094C5248DCA4542A8354ACEB8C.jpeg",
+      "thumbUrl": "/product-images/ID_A796D1094C5248DCA4542A8354ACEB8C.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_A796D1094C5248DCA4542A8354ACEB8C",
+      "originalDescription": "C:/Users/16222/Desktop/nitro-hong/主.jpg主",
+      "embeddedFile": "xl/media/image193.jpeg"
+    },
+    "ID_796DA9B8ECF54B738FE170FC2C711982": {
+      "url": "/product-images/ID_796DA9B8ECF54B738FE170FC2C711982.png",
+      "thumbUrl": "/product-images/ID_796DA9B8ECF54B738FE170FC2C711982.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_796DA9B8ECF54B738FE170FC2C711982",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image194.png"
+    },
+    "ID_D9C1B26723434130B7C6FBEB38384638": {
+      "url": "/product-images/ID_D9C1B26723434130B7C6FBEB38384638.jpeg",
+      "thumbUrl": "/product-images/ID_D9C1B26723434130B7C6FBEB38384638.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_D9C1B26723434130B7C6FBEB38384638",
+      "originalDescription": "4",
+      "embeddedFile": "xl/media/image195.jpeg"
+    },
+    "ID_ED2EFEFD5D36482ABD0A041C922C287C": {
+      "url": "/product-images/ID_ED2EFEFD5D36482ABD0A041C922C287C.jpeg",
+      "thumbUrl": "/product-images/ID_ED2EFEFD5D36482ABD0A041C922C287C.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_ED2EFEFD5D36482ABD0A041C922C287C",
+      "originalDescription": "1",
+      "embeddedFile": "xl/media/image196.jpeg"
+    },
+    "ID_358EB3BE5A3749CCB3F49DD9E25A7254": {
+      "url": "/product-images/ID_358EB3BE5A3749CCB3F49DD9E25A7254.jpeg",
+      "thumbUrl": "/product-images/ID_358EB3BE5A3749CCB3F49DD9E25A7254.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_358EB3BE5A3749CCB3F49DD9E25A7254",
+      "originalDescription": "C:/Users/16222/Desktop/rong-540/主.jpg主",
+      "embeddedFile": "xl/media/image197.jpeg"
+    },
+    "ID_814AB3E8B98543DCB8337CB86405ABBB": {
+      "url": "/product-images/ID_814AB3E8B98543DCB8337CB86405ABBB.jpeg",
+      "thumbUrl": "/product-images/ID_814AB3E8B98543DCB8337CB86405ABBB.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_814AB3E8B98543DCB8337CB86405ABBB",
+      "originalDescription": "C:/Users/16222/Desktop/540-white/主.jpg主",
+      "embeddedFile": "xl/media/image198.jpeg"
+    },
+    "ID_12571979E2D1457985398AD12458C801": {
+      "url": "/product-images/ID_12571979E2D1457985398AD12458C801.jpeg",
+      "thumbUrl": "/product-images/ID_12571979E2D1457985398AD12458C801.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_12571979E2D1457985398AD12458C801",
+      "originalDescription": "C:/Users/16222/Desktop/baiwan/主.jpg主",
+      "embeddedFile": "xl/media/image199.jpeg"
+    },
+    "ID_E224B74EA6044CED8964759038CE42FB": {
+      "url": "/product-images/ID_E224B74EA6044CED8964759038CE42FB.jpeg",
+      "thumbUrl": "/product-images/ID_E224B74EA6044CED8964759038CE42FB.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_E224B74EA6044CED8964759038CE42FB",
+      "originalDescription": "C:/Users/16222/Desktop/产品集合/oud-honey/主.jpg主",
+      "embeddedFile": "xl/media/image200.jpeg"
+    },
+    "ID_43C7E77ED964477FB328CE27E4AFC7BE": {
+      "url": "/product-images/ID_43C7E77ED964477FB328CE27E4AFC7BE.jpeg",
+      "thumbUrl": "/product-images/ID_43C7E77ED964477FB328CE27E4AFC7BE.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_43C7E77ED964477FB328CE27E4AFC7BE",
+      "originalDescription": "C:/Users/16222/Desktop/CEO/主.jpg主",
+      "embeddedFile": "xl/media/image201.jpeg"
+    },
+    "ID_8FE8706092FD447CBA81921084B4AF8F": {
+      "url": "/product-images/ID_8FE8706092FD447CBA81921084B4AF8F.jpeg",
+      "thumbUrl": "/product-images/ID_8FE8706092FD447CBA81921084B4AF8F.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_8FE8706092FD447CBA81921084B4AF8F",
+      "originalDescription": "C:/Users/16222/Desktop/Goat/主.jpg主",
+      "embeddedFile": "xl/media/image202.jpeg"
+    },
+    "ID_850A6715F95042498991D09101274494": {
+      "url": "/product-images/ID_850A6715F95042498991D09101274494.jpeg",
+      "thumbUrl": "/product-images/ID_850A6715F95042498991D09101274494.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_850A6715F95042498991D09101274494",
+      "originalDescription": "C:/Users/16222/Desktop/产品集合/Kharis-cai/主.jpg主",
+      "embeddedFile": "xl/media/image203.jpeg"
+    },
+    "ID_1BED8C376FD84A099541298C078BDEB1": {
+      "url": "/product-images/ID_1BED8C376FD84A099541298C078BDEB1.jpeg",
+      "thumbUrl": "/product-images/ID_1BED8C376FD84A099541298C078BDEB1.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_1BED8C376FD84A099541298C078BDEB1",
+      "originalDescription": "C:/Users/16222/Desktop/kharis-green/主.jpg主",
+      "embeddedFile": "xl/media/image204.jpeg"
+    },
+    "ID_E2B8A3CC365144CBBCCFDC4D8BD07368": {
+      "url": "/product-images/ID_E2B8A3CC365144CBBCCFDC4D8BD07368.jpeg",
+      "thumbUrl": "/product-images/ID_E2B8A3CC365144CBBCCFDC4D8BD07368.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_E2B8A3CC365144CBBCCFDC4D8BD07368",
+      "originalDescription": "C:/Users/16222/Desktop/Kharis-hui/主.jpg主",
+      "embeddedFile": "xl/media/image205.jpeg"
+    },
+    "ID_6C101A0BDE66451887E6C53BB5F2FF1B": {
+      "url": "/product-images/ID_6C101A0BDE66451887E6C53BB5F2FF1B.jpeg",
+      "thumbUrl": "/product-images/ID_6C101A0BDE66451887E6C53BB5F2FF1B.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_6C101A0BDE66451887E6C53BB5F2FF1B",
+      "originalDescription": "C:/Users/16222/Desktop/Kharis-pink/主.jpg主",
+      "embeddedFile": "xl/media/image206.jpeg"
+    },
+    "ID_FE3E1FC1CBBF4C2A9C304D0023330E4B": {
+      "url": "/product-images/ID_FE3E1FC1CBBF4C2A9C304D0023330E4B.png",
+      "thumbUrl": "/product-images/ID_FE3E1FC1CBBF4C2A9C304D0023330E4B.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_FE3E1FC1CBBF4C2A9C304D0023330E4B",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image207.png"
+    },
+    "ID_9C711E0A0B534E8996ECB19D8751D977": {
+      "url": "/product-images/ID_9C711E0A0B534E8996ECB19D8751D977.jpeg",
+      "thumbUrl": "/product-images/ID_9C711E0A0B534E8996ECB19D8751D977.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_9C711E0A0B534E8996ECB19D8751D977",
+      "originalDescription": "C:/Users/16222/Desktop/paris-fen/主.jpg主",
+      "embeddedFile": "xl/media/image208.jpeg"
+    },
+    "ID_F945EE348A6C4A619AAE7E8A7ECCCFB8": {
+      "url": "/product-images/ID_F945EE348A6C4A619AAE7E8A7ECCCFB8.jpeg",
+      "thumbUrl": "/product-images/ID_F945EE348A6C4A619AAE7E8A7ECCCFB8.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_F945EE348A6C4A619AAE7E8A7ECCCFB8",
+      "originalDescription": "C:/Users/16222/Desktop/Taskeen-hong/主.jpg主",
+      "embeddedFile": "xl/media/image209.jpeg"
+    },
+    "ID_1224C2E9C2174B98A9028EFAB3973D3D": {
+      "url": "/product-images/ID_1224C2E9C2174B98A9028EFAB3973D3D.jpeg",
+      "thumbUrl": "/product-images/ID_1224C2E9C2174B98A9028EFAB3973D3D.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_1224C2E9C2174B98A9028EFAB3973D3D",
+      "originalDescription": "C:/Users/16222/Desktop/Taskenn-yellow/主.jpg主",
+      "embeddedFile": "xl/media/image210.jpeg"
+    },
+    "ID_F1E455578C094532B5EC309D6C9EB68F": {
+      "url": "/product-images/ID_F1E455578C094532B5EC309D6C9EB68F.png",
+      "thumbUrl": "/product-images/ID_F1E455578C094532B5EC309D6C9EB68F.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_F1E455578C094532B5EC309D6C9EB68F",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image211.png"
+    },
+    "ID_323980957F524CEFBE1BA2507231EBD6": {
+      "url": "/product-images/ID_323980957F524CEFBE1BA2507231EBD6.png",
+      "thumbUrl": "/product-images/ID_323980957F524CEFBE1BA2507231EBD6.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_323980957F524CEFBE1BA2507231EBD6",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image212.png"
+    },
+    "ID_572F5030FAFE4DDDB5D2176C8ACECD4F": {
+      "url": "/product-images/ID_572F5030FAFE4DDDB5D2176C8ACECD4F.jpeg",
+      "thumbUrl": "/product-images/ID_572F5030FAFE4DDDB5D2176C8ACECD4F.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_572F5030FAFE4DDDB5D2176C8ACECD4F",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image213.jpeg"
+    },
+    "ID_5284E47DC5E14081BEBE153D831A3CE4": {
+      "url": "/product-images/ID_5284E47DC5E14081BEBE153D831A3CE4.jpeg",
+      "thumbUrl": "/product-images/ID_5284E47DC5E14081BEBE153D831A3CE4.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_5284E47DC5E14081BEBE153D831A3CE4",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image214.jpeg"
+    },
+    "ID_9FF36C770388446A9C7F2C12E1D75E1F": {
+      "url": "/product-images/ID_9FF36C770388446A9C7F2C12E1D75E1F.jpeg",
+      "thumbUrl": "/product-images/ID_9FF36C770388446A9C7F2C12E1D75E1F.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_9FF36C770388446A9C7F2C12E1D75E1F",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image215.jpeg"
+    },
+    "ID_40A9066AAA3C494588816F102DE1813D": {
+      "url": "/product-images/ID_40A9066AAA3C494588816F102DE1813D.jpeg",
+      "thumbUrl": "/product-images/ID_40A9066AAA3C494588816F102DE1813D.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_40A9066AAA3C494588816F102DE1813D",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image216.jpeg"
+    },
+    "ID_10F716B1FB2841CE820041AB52D82779": {
+      "url": "/product-images/ID_10F716B1FB2841CE820041AB52D82779.jpeg",
+      "thumbUrl": "/product-images/ID_10F716B1FB2841CE820041AB52D82779.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_10F716B1FB2841CE820041AB52D82779",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image217.jpeg"
+    },
+    "ID_B65D29F9D0EB4E66983B7271D2566B50": {
+      "url": "/product-images/ID_B65D29F9D0EB4E66983B7271D2566B50.jpeg",
+      "thumbUrl": "/product-images/ID_B65D29F9D0EB4E66983B7271D2566B50.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_B65D29F9D0EB4E66983B7271D2566B50",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image218.jpeg"
+    },
+    "ID_D62CD007E43346D0B1177BB661F61075": {
+      "url": "/product-images/ID_D62CD007E43346D0B1177BB661F61075.jpeg",
+      "thumbUrl": "/product-images/ID_D62CD007E43346D0B1177BB661F61075.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_D62CD007E43346D0B1177BB661F61075",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image219.jpeg"
+    },
+    "ID_7CC7B0CAFE844424AD0FB67CD73707E8": {
+      "url": "/product-images/ID_7CC7B0CAFE844424AD0FB67CD73707E8.png",
+      "thumbUrl": "/product-images/ID_7CC7B0CAFE844424AD0FB67CD73707E8.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_7CC7B0CAFE844424AD0FB67CD73707E8",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image220.png"
+    },
+    "ID_415EECCF70464D85A8AA4B26C537CCF6": {
+      "url": "/product-images/ID_415EECCF70464D85A8AA4B26C537CCF6.png",
+      "thumbUrl": "/product-images/ID_415EECCF70464D85A8AA4B26C537CCF6.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_415EECCF70464D85A8AA4B26C537CCF6",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image221.png"
+    },
+    "ID_23A875F3466B46CBB020B1E4016BF01E": {
+      "url": "/product-images/ID_23A875F3466B46CBB020B1E4016BF01E.jpeg",
+      "thumbUrl": "/product-images/ID_23A875F3466B46CBB020B1E4016BF01E.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_23A875F3466B46CBB020B1E4016BF01E",
+      "originalDescription": "61D81hQH6CL._SL1500_",
+      "embeddedFile": "xl/media/image222.jpeg"
+    },
+    "ID_030B4269627F4D1FA16F32C397DF97E1": {
+      "url": "/product-images/ID_030B4269627F4D1FA16F32C397DF97E1.png",
+      "thumbUrl": "/product-images/ID_030B4269627F4D1FA16F32C397DF97E1.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_030B4269627F4D1FA16F32C397DF97E1",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image223.png"
+    },
+    "ID_5F84BF321DBC4AF6A199A5E1D8617729": {
+      "url": "/product-images/ID_5F84BF321DBC4AF6A199A5E1D8617729.jpeg",
+      "thumbUrl": "/product-images/ID_5F84BF321DBC4AF6A199A5E1D8617729.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_5F84BF321DBC4AF6A199A5E1D8617729",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image224.jpeg"
+    },
+    "ID_F0DBDCFA74A54235A48E24CEDC695ECC": {
+      "url": "/product-images/ID_F0DBDCFA74A54235A48E24CEDC695ECC.png",
+      "thumbUrl": "/product-images/ID_F0DBDCFA74A54235A48E24CEDC695ECC.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_F0DBDCFA74A54235A48E24CEDC695ECC",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image225.png"
+    },
+    "ID_44481327618C475496D3E2C83887512B": {
+      "url": "/product-images/ID_44481327618C475496D3E2C83887512B.jpeg",
+      "thumbUrl": "/product-images/ID_44481327618C475496D3E2C83887512B.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_44481327618C475496D3E2C83887512B",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image226.jpeg"
+    },
+    "ID_D68CF4D351E8480395C4C25218DE9B46": {
+      "url": "/product-images/ID_D68CF4D351E8480395C4C25218DE9B46.jpeg",
+      "thumbUrl": "/product-images/ID_D68CF4D351E8480395C4C25218DE9B46.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_D68CF4D351E8480395C4C25218DE9B46",
+      "originalDescription": "LY-SHAGHAF-HUANG",
+      "embeddedFile": "xl/media/image227.jpeg"
+    },
+    "ID_9BE39491A97E413B98BE8B023A5D9535": {
+      "url": "/product-images/ID_9BE39491A97E413B98BE8B023A5D9535.jpeg",
+      "thumbUrl": "/product-images/ID_9BE39491A97E413B98BE8B023A5D9535.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_9BE39491A97E413B98BE8B023A5D9535",
+      "originalDescription": "LY-SHAGHAF-HONG",
+      "embeddedFile": "xl/media/image228.jpeg"
+    },
+    "ID_3D31EC843A654226846F84D1C0465999": {
+      "url": "/product-images/ID_3D31EC843A654226846F84D1C0465999.jpeg",
+      "thumbUrl": "/product-images/ID_3D31EC843A654226846F84D1C0465999.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_3D31EC843A654226846F84D1C0465999",
+      "originalDescription": "LY-SHAGHAF-LAN",
+      "embeddedFile": "xl/media/image229.jpeg"
+    },
+    "ID_AC4A5864954E46E88112412B6CC92362": {
+      "url": "/product-images/ID_AC4A5864954E46E88112412B6CC92362.jpeg",
+      "thumbUrl": "/product-images/ID_AC4A5864954E46E88112412B6CC92362.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_AC4A5864954E46E88112412B6CC92362",
+      "originalDescription": "710HXzbWPKL._SL1500_",
+      "embeddedFile": "xl/media/image230.jpeg"
+    },
+    "ID_F1A5E8AA30F34CD9BD94851BCCB80FA4": {
+      "url": "/product-images/ID_F1A5E8AA30F34CD9BD94851BCCB80FA4.png",
+      "thumbUrl": "/product-images/ID_F1A5E8AA30F34CD9BD94851BCCB80FA4.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_F1A5E8AA30F34CD9BD94851BCCB80FA4",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image231.png"
+    },
+    "ID_9569B1F3001F4801B38891789A70EDEA": {
+      "url": "/product-images/ID_9569B1F3001F4801B38891789A70EDEA.jpeg",
+      "thumbUrl": "/product-images/ID_9569B1F3001F4801B38891789A70EDEA.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_9569B1F3001F4801B38891789A70EDEA",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image232.jpeg"
+    },
+    "ID_06FF1472F8334EF3B89287219FA06A66": {
+      "url": "/product-images/ID_06FF1472F8334EF3B89287219FA06A66.png",
+      "thumbUrl": "/product-images/ID_06FF1472F8334EF3B89287219FA06A66.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_06FF1472F8334EF3B89287219FA06A66",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image233.png"
+    },
+    "ID_18F1C640F6014A7BB9FF7B02E9926D6D": {
+      "url": "/product-images/ID_18F1C640F6014A7BB9FF7B02E9926D6D.jpeg",
+      "thumbUrl": "/product-images/ID_18F1C640F6014A7BB9FF7B02E9926D6D.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_18F1C640F6014A7BB9FF7B02E9926D6D",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image234.jpeg"
+    },
+    "ID_362B1FD934FD4FB5A51C1592CF766DE3": {
+      "url": "/product-images/ID_362B1FD934FD4FB5A51C1592CF766DE3.jpeg",
+      "thumbUrl": "/product-images/ID_362B1FD934FD4FB5A51C1592CF766DE3.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_362B1FD934FD4FB5A51C1592CF766DE3",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image235.jpeg"
+    },
+    "ID_AC98531EAC014DAA84B44B891AF1FE65": {
+      "url": "/product-images/ID_AC98531EAC014DAA84B44B891AF1FE65.jpeg",
+      "thumbUrl": "/product-images/ID_AC98531EAC014DAA84B44B891AF1FE65.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_AC98531EAC014DAA84B44B891AF1FE65",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image236.jpeg"
+    },
+    "ID_79417907947D4FEFAC61499D140AE82A": {
+      "url": "/product-images/ID_79417907947D4FEFAC61499D140AE82A.jpeg",
+      "thumbUrl": "/product-images/ID_79417907947D4FEFAC61499D140AE82A.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_79417907947D4FEFAC61499D140AE82A",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image237.jpeg"
+    },
+    "ID_16982AF31BE5409A80C265D33B946720": {
+      "url": "/product-images/ID_16982AF31BE5409A80C265D33B946720.jpeg",
+      "thumbUrl": "/product-images/ID_16982AF31BE5409A80C265D33B946720.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_16982AF31BE5409A80C265D33B946720",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image238.jpeg"
+    },
+    "ID_2099CF3DD93F4E93AE2618A67CF0D95F": {
+      "url": "/product-images/ID_2099CF3DD93F4E93AE2618A67CF0D95F.jpeg",
+      "thumbUrl": "/product-images/ID_2099CF3DD93F4E93AE2618A67CF0D95F.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_2099CF3DD93F4E93AE2618A67CF0D95F",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image239.jpeg"
+    },
+    "ID_066810772F394E0DB93520B3F44BC011": {
+      "url": "/product-images/ID_066810772F394E0DB93520B3F44BC011.jpeg",
+      "thumbUrl": "/product-images/ID_066810772F394E0DB93520B3F44BC011.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_066810772F394E0DB93520B3F44BC011",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image240.jpeg"
+    },
+    "ID_B65A4A07E8BA49D8A9C9A7C6092E4E0D": {
+      "url": "/product-images/ID_B65A4A07E8BA49D8A9C9A7C6092E4E0D.png",
+      "thumbUrl": "/product-images/ID_B65A4A07E8BA49D8A9C9A7C6092E4E0D.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_B65A4A07E8BA49D8A9C9A7C6092E4E0D",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image241.png"
+    },
+    "ID_48743376BFFF48CAB3E5E13008719752": {
+      "url": "/product-images/ID_48743376BFFF48CAB3E5E13008719752.jpeg",
+      "thumbUrl": "/product-images/ID_48743376BFFF48CAB3E5E13008719752.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_48743376BFFF48CAB3E5E13008719752",
+      "originalDescription": "Billie-hei",
+      "embeddedFile": "xl/media/image242.jpeg"
+    },
+    "ID_3ADDF7032D3E4D35AC2A5AD0C1E3D586": {
+      "url": "/product-images/ID_3ADDF7032D3E4D35AC2A5AD0C1E3D586.jpeg",
+      "thumbUrl": "/product-images/ID_3ADDF7032D3E4D35AC2A5AD0C1E3D586.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_3ADDF7032D3E4D35AC2A5AD0C1E3D586",
+      "originalDescription": "Billie-hong",
+      "embeddedFile": "xl/media/image243.jpeg"
+    },
+    "ID_0A296EAE53D54BE3A5D5A98FA5CE6D93": {
+      "url": "/product-images/ID_0A296EAE53D54BE3A5D5A98FA5CE6D93.jpeg",
+      "thumbUrl": "/product-images/ID_0A296EAE53D54BE3A5D5A98FA5CE6D93.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_0A296EAE53D54BE3A5D5A98FA5CE6D93",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image244.jpeg"
+    },
+    "ID_258DB3CFD7F143DC97833BDADEA0038F": {
+      "url": "/product-images/ID_258DB3CFD7F143DC97833BDADEA0038F.jpeg",
+      "thumbUrl": "/product-images/ID_258DB3CFD7F143DC97833BDADEA0038F.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_258DB3CFD7F143DC97833BDADEA0038F",
+      "originalDescription": "C:/Users/16222/Desktop/链接图片/Ameerat Al Arab（阿拉伯公主）/原图/31VY3Q7t4uL..jpg31VY3Q7t4uL.",
+      "embeddedFile": "xl/media/image245.jpeg"
+    },
+    "ID_F778FDD710924059817520A005CBA16A": {
+      "url": "/product-images/ID_F778FDD710924059817520A005CBA16A.jpeg",
+      "thumbUrl": "/product-images/ID_F778FDD710924059817520A005CBA16A.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_F778FDD710924059817520A005CBA16A",
+      "originalDescription": "C:/Users/16222/Desktop/链接图片/Ameerat Al Arab（阿拉伯公主）/原图/31nROBME3QL..jpg31nROBME3QL.",
+      "embeddedFile": "xl/media/image246.jpeg"
+    },
+    "ID_B6CEFF107AE4492F9F1BDF3340F87A81": {
+      "url": "/product-images/ID_B6CEFF107AE4492F9F1BDF3340F87A81.jpeg",
+      "thumbUrl": "/product-images/ID_B6CEFF107AE4492F9F1BDF3340F87A81.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_B6CEFF107AE4492F9F1BDF3340F87A81",
+      "originalDescription": "C:/Users/16222/Desktop/链接图片/Ameerat Al Arab（阿拉伯公主）/原图/31TVoAijT0L.jpg31TVoAijT0L",
+      "embeddedFile": "xl/media/image247.jpeg"
+    },
+    "ID_43CD00DEB32E408190D1655612522B2D": {
+      "url": "/product-images/ID_43CD00DEB32E408190D1655612522B2D.jpeg",
+      "thumbUrl": "/product-images/ID_43CD00DEB32E408190D1655612522B2D.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_43CD00DEB32E408190D1655612522B2D",
+      "originalDescription": "C:/Users/16222/Desktop/链接图片/Ameerat Al Arab（阿拉伯公主）/原图/31TpJNXCKrL..jpg31TpJNXCKrL.",
+      "embeddedFile": "xl/media/image248.jpeg"
+    },
+    "ID_A62C6B7814DA461C8254FE9D648E208F": {
+      "url": "/product-images/ID_A62C6B7814DA461C8254FE9D648E208F.jpeg",
+      "thumbUrl": "/product-images/ID_A62C6B7814DA461C8254FE9D648E208F.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_A62C6B7814DA461C8254FE9D648E208F",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image249.jpeg"
+    },
+    "ID_2E99153A69254E59860A4C51A20CFFF0": {
+      "url": "/product-images/ID_2E99153A69254E59860A4C51A20CFFF0.png",
+      "thumbUrl": "/product-images/ID_2E99153A69254E59860A4C51A20CFFF0.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_2E99153A69254E59860A4C51A20CFFF0",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image250.png"
+    },
+    "ID_9F8994AE15374075BC77613BB707412A": {
+      "url": "/product-images/ID_9F8994AE15374075BC77613BB707412A.jpeg",
+      "thumbUrl": "/product-images/ID_9F8994AE15374075BC77613BB707412A.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_9F8994AE15374075BC77613BB707412A",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image251.jpeg"
+    },
+    "ID_DE500A4A28FB49E8A0B51FE37AC1AAFC": {
+      "url": "/product-images/ID_DE500A4A28FB49E8A0B51FE37AC1AAFC.png",
+      "thumbUrl": "/product-images/ID_DE500A4A28FB49E8A0B51FE37AC1AAFC.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_DE500A4A28FB49E8A0B51FE37AC1AAFC",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image252.png"
+    },
+    "ID_2C9E4F48D01641EDAA45AB77A99C815D": {
+      "url": "/product-images/ID_2C9E4F48D01641EDAA45AB77A99C815D.jpeg",
+      "thumbUrl": "/product-images/ID_2C9E4F48D01641EDAA45AB77A99C815D.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_2C9E4F48D01641EDAA45AB77A99C815D",
+      "originalDescription": "LY-SCEPTRE-LV",
+      "embeddedFile": "xl/media/image253.jpeg"
+    },
+    "ID_2A48231353BE45D18054263CB0D76E04": {
+      "url": "/product-images/ID_2A48231353BE45D18054263CB0D76E04.jpeg",
+      "thumbUrl": "/product-images/ID_2A48231353BE45D18054263CB0D76E04.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_2A48231353BE45D18054263CB0D76E04",
+      "originalDescription": "LY-SCEPTRE-LAN",
+      "embeddedFile": "xl/media/image254.jpeg"
+    },
+    "ID_FAC8825C09214EDEBC57C29D0F9D7861": {
+      "url": "/product-images/ID_FAC8825C09214EDEBC57C29D0F9D7861.jpeg",
+      "thumbUrl": "/product-images/ID_FAC8825C09214EDEBC57C29D0F9D7861.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_FAC8825C09214EDEBC57C29D0F9D7861",
+      "originalDescription": "LY-SCEPTRE-ZI",
+      "embeddedFile": "xl/media/image255.jpeg"
+    },
+    "ID_4B9BCC906C4F44DCAFF306D0CD189FD6": {
+      "url": "/product-images/ID_4B9BCC906C4F44DCAFF306D0CD189FD6.jpeg",
+      "thumbUrl": "/product-images/ID_4B9BCC906C4F44DCAFF306D0CD189FD6.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_4B9BCC906C4F44DCAFF306D0CD189FD6",
+      "originalDescription": "LY-SCEPTRE-HUANG",
+      "embeddedFile": "xl/media/image256.jpeg"
+    },
+    "ID_8795A9AE87CF40D79782518ECE7F71EB": {
+      "url": "/product-images/ID_8795A9AE87CF40D79782518ECE7F71EB.jpeg",
+      "thumbUrl": "/product-images/ID_8795A9AE87CF40D79782518ECE7F71EB.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_8795A9AE87CF40D79782518ECE7F71EB",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image257.jpeg"
+    },
+    "ID_4F306685EE3E46638A4F39E1255F190C": {
+      "url": "/product-images/ID_4F306685EE3E46638A4F39E1255F190C.jpeg",
+      "thumbUrl": "/product-images/ID_4F306685EE3E46638A4F39E1255F190C.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_4F306685EE3E46638A4F39E1255F190C",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image258.jpeg"
+    },
+    "ID_4E93FCC016B54CECAEC33A226480DB81": {
+      "url": "/product-images/ID_4E93FCC016B54CECAEC33A226480DB81.jpeg",
+      "thumbUrl": "/product-images/ID_4E93FCC016B54CECAEC33A226480DB81.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_4E93FCC016B54CECAEC33A226480DB81",
+      "originalDescription": "LY-GD-HEIFEN",
+      "embeddedFile": "xl/media/image259.jpeg"
+    },
+    "ID_A4EF2EB8F52E42AB9A1B6AF635C91E7C": {
+      "url": "/product-images/ID_A4EF2EB8F52E42AB9A1B6AF635C91E7C.jpeg",
+      "thumbUrl": "/product-images/ID_A4EF2EB8F52E42AB9A1B6AF635C91E7C.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_A4EF2EB8F52E42AB9A1B6AF635C91E7C",
+      "originalDescription": "LY-GD-FEN",
+      "embeddedFile": "xl/media/image260.jpeg"
+    },
+    "ID_86F883D07F0C462B85EAE9A5B98651AC": {
+      "url": "/product-images/ID_86F883D07F0C462B85EAE9A5B98651AC.jpeg",
+      "thumbUrl": "/product-images/ID_86F883D07F0C462B85EAE9A5B98651AC.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_86F883D07F0C462B85EAE9A5B98651AC",
+      "originalDescription": "LY-GD-HONG",
+      "embeddedFile": "xl/media/image261.jpeg"
+    },
+    "ID_86F467BD48FD4478BF31D3DA8AF9ADA3": {
+      "url": "/product-images/ID_86F467BD48FD4478BF31D3DA8AF9ADA3.jpeg",
+      "thumbUrl": "/product-images/ID_86F467BD48FD4478BF31D3DA8AF9ADA3.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_86F467BD48FD4478BF31D3DA8AF9ADA3",
+      "originalDescription": "LY-GD-HEIHONG",
+      "embeddedFile": "xl/media/image262.jpeg"
+    },
+    "ID_949E163F4CAE48458113D0FA3B969B09": {
+      "url": "/product-images/ID_949E163F4CAE48458113D0FA3B969B09.jpeg",
+      "thumbUrl": "/product-images/ID_949E163F4CAE48458113D0FA3B969B09.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_949E163F4CAE48458113D0FA3B969B09",
+      "originalDescription": "LY-GD-LAN",
+      "embeddedFile": "xl/media/image263.jpeg"
+    },
+    "ID_996A9FB4C6AC4BC486F35A60AA2110A7": {
+      "url": "/product-images/ID_996A9FB4C6AC4BC486F35A60AA2110A7.jpeg",
+      "thumbUrl": "/product-images/ID_996A9FB4C6AC4BC486F35A60AA2110A7.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_996A9FB4C6AC4BC486F35A60AA2110A7",
+      "originalDescription": "LY-GD-HEI",
+      "embeddedFile": "xl/media/image264.jpeg"
+    },
+    "ID_0F557213E1DF40C391CBF33EF6A01F41": {
+      "url": "/product-images/ID_0F557213E1DF40C391CBF33EF6A01F41.jpeg",
+      "thumbUrl": "/product-images/ID_0F557213E1DF40C391CBF33EF6A01F41.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_0F557213E1DF40C391CBF33EF6A01F41",
+      "originalDescription": "1",
+      "embeddedFile": "xl/media/image265.jpeg"
+    },
+    "ID_3C05B06C44854500BCD0CC8B71DE81B5": {
+      "url": "/product-images/ID_3C05B06C44854500BCD0CC8B71DE81B5.jpeg",
+      "thumbUrl": "/product-images/ID_3C05B06C44854500BCD0CC8B71DE81B5.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_3C05B06C44854500BCD0CC8B71DE81B5",
+      "originalDescription": "71nuRXNKUrL._SL1500_",
+      "embeddedFile": "xl/media/image266.jpeg"
+    },
+    "ID_CE4D396E95554A188D3CE7AA57FD0030": {
+      "url": "/product-images/ID_CE4D396E95554A188D3CE7AA57FD0030.jpeg",
+      "thumbUrl": "/product-images/ID_CE4D396E95554A188D3CE7AA57FD0030.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_CE4D396E95554A188D3CE7AA57FD0030",
+      "originalDescription": "71qM--Fx4KL._SL1500_",
+      "embeddedFile": "xl/media/image267.jpeg"
+    },
+    "ID_64DDAC81DBA34B6182C8D88E812FE709": {
+      "url": "/product-images/ID_64DDAC81DBA34B6182C8D88E812FE709.jpeg",
+      "thumbUrl": "/product-images/ID_64DDAC81DBA34B6182C8D88E812FE709.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_64DDAC81DBA34B6182C8D88E812FE709",
+      "originalDescription": "1",
+      "embeddedFile": "xl/media/image268.jpeg"
+    },
+    "ID_409FF3D7F7874221AEA5D3AF80189180": {
+      "url": "/product-images/ID_409FF3D7F7874221AEA5D3AF80189180.jpeg",
+      "thumbUrl": "/product-images/ID_409FF3D7F7874221AEA5D3AF80189180.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_409FF3D7F7874221AEA5D3AF80189180",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image269.jpeg"
+    },
+    "ID_CA90C0EB5ABD43269E4B22506E0AE8D1": {
+      "url": "/product-images/ID_CA90C0EB5ABD43269E4B22506E0AE8D1.jpeg",
+      "thumbUrl": "/product-images/ID_CA90C0EB5ABD43269E4B22506E0AE8D1.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_CA90C0EB5ABD43269E4B22506E0AE8D1",
+      "originalDescription": "61ee47UapVL._SL1080_",
+      "embeddedFile": "xl/media/image270.jpeg"
+    },
+    "ID_340F3F14182A47D0BE5A18C64C9DEB29": {
+      "url": "/product-images/ID_340F3F14182A47D0BE5A18C64C9DEB29.jpeg",
+      "thumbUrl": "/product-images/ID_340F3F14182A47D0BE5A18C64C9DEB29.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_340F3F14182A47D0BE5A18C64C9DEB29",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image271.jpeg"
+    },
+    "ID_13AF1E53E6AC4663AB640E8C7CFB9F5D": {
+      "url": "/product-images/ID_13AF1E53E6AC4663AB640E8C7CFB9F5D.jpeg",
+      "thumbUrl": "/product-images/ID_13AF1E53E6AC4663AB640E8C7CFB9F5D.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_13AF1E53E6AC4663AB640E8C7CFB9F5D",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image272.jpeg"
+    },
+    "ID_6774CF734A044725A95CA3A18DE26E23": {
+      "url": "/product-images/ID_6774CF734A044725A95CA3A18DE26E23.jpeg",
+      "thumbUrl": "/product-images/ID_6774CF734A044725A95CA3A18DE26E23.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_6774CF734A044725A95CA3A18DE26E23",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image273.jpeg"
+    },
+    "ID_6D061151702B4967951504343CAA0FD3": {
+      "url": "/product-images/ID_6D061151702B4967951504343CAA0FD3.jpeg",
+      "thumbUrl": "/product-images/ID_6D061151702B4967951504343CAA0FD3.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_6D061151702B4967951504343CAA0FD3",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image274.jpeg"
+    },
+    "ID_B36E7BE6B89B4F5F8621D5DF3E171012": {
+      "url": "/product-images/ID_B36E7BE6B89B4F5F8621D5DF3E171012.jpeg",
+      "thumbUrl": "/product-images/ID_B36E7BE6B89B4F5F8621D5DF3E171012.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_B36E7BE6B89B4F5F8621D5DF3E171012",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image275.jpeg"
+    },
+    "ID_35D9B02B42BB4899B38883DFCD0D4DF7": {
+      "url": "/product-images/ID_35D9B02B42BB4899B38883DFCD0D4DF7.jpeg",
+      "thumbUrl": "/product-images/ID_35D9B02B42BB4899B38883DFCD0D4DF7.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_35D9B02B42BB4899B38883DFCD0D4DF7",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image276.jpeg"
+    },
+    "ID_4F2A317A4653454FB51839FA1A0FE78B": {
+      "url": "/product-images/ID_4F2A317A4653454FB51839FA1A0FE78B.jpeg",
+      "thumbUrl": "/product-images/ID_4F2A317A4653454FB51839FA1A0FE78B.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_4F2A317A4653454FB51839FA1A0FE78B",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image277.jpeg"
+    },
+    "ID_F108901FDB5A48E4A2B1585A32373E7F": {
+      "url": "/product-images/ID_F108901FDB5A48E4A2B1585A32373E7F.jpeg",
+      "thumbUrl": "/product-images/ID_F108901FDB5A48E4A2B1585A32373E7F.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_F108901FDB5A48E4A2B1585A32373E7F",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image278.jpeg"
+    },
+    "ID_A043923214A54BEAACA30CE19522F526": {
+      "url": "/product-images/ID_A043923214A54BEAACA30CE19522F526.jpeg",
+      "thumbUrl": "/product-images/ID_A043923214A54BEAACA30CE19522F526.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_A043923214A54BEAACA30CE19522F526",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image279.jpeg"
+    },
+    "ID_E4AD0C6DC580407380EFE7435029ECE1": {
+      "url": "/product-images/ID_E4AD0C6DC580407380EFE7435029ECE1.jpeg",
+      "thumbUrl": "/product-images/ID_E4AD0C6DC580407380EFE7435029ECE1.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_E4AD0C6DC580407380EFE7435029ECE1",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image280.jpeg"
+    },
+    "ID_8E11EFEFF822419F986B438BA38B845D": {
+      "url": "/product-images/ID_8E11EFEFF822419F986B438BA38B845D.jpeg",
+      "thumbUrl": "/product-images/ID_8E11EFEFF822419F986B438BA38B845D.jpeg",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_8E11EFEFF822419F986B438BA38B845D",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image281.jpeg"
+    },
+    "ID_391478EE68E648FE94B2208DD576C767": {
+      "url": "/product-images/ID_391478EE68E648FE94B2208DD576C767.png",
+      "thumbUrl": "/product-images/ID_391478EE68E648FE94B2208DD576C767.png",
+      "source": "Inventory.xlsx",
+      "sourceLabel": "supplier-sheet",
+      "confidence": "high",
+      "imageId": "ID_391478EE68E648FE94B2208DD576C767",
+      "originalDescription": null,
+      "embeddedFile": "xl/media/image282.png"
+    }
+  }
+}

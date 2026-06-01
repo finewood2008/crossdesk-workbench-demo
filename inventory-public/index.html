@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>SourceFlow 香水批发采购平台</title>
+    <link rel="stylesheet" href="/inventory.css" />
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="site-header">
+        <a class="brand" href="/" data-nav="/">
+          <span>SF</span>
+          <div>
+            <strong>SourceFlow</strong>
+            <small>Perfume Wholesale & Dropship API</small>
+          </div>
+        </a>
+        <nav class="main-nav" aria-label="Primary navigation">
+          <a href="/" data-nav="/">首页</a>
+          <a href="/catalog" data-nav="/catalog">香水货盘</a>
+          <a href="/dropship" data-nav="/dropship">一件代发</a>
+          <a href="/api-center" data-nav="/api-center">API Center</a>
+        </nav>
+        <div class="header-actions">
+          <a class="admin-link" href="/admin" data-nav="/admin">Admin</a>
+          <a class="primary-action" href="/api/catalog-pack?format=csv">下载上架包</a>
+        </div>
+      </header>
+
+      <main>
+        <section class="page-view" id="homeView"></section>
+        <section class="page-view" id="catalogView" hidden></section>
+        <section class="page-view" id="dropshipView" hidden></section>
+        <section class="page-view" id="apiView" hidden></section>
+        <section class="page-view" id="adminView" hidden></section>
+        <section class="page-view" id="productView" hidden></section>
+      </main>
+    </div>
+    <script src="/inventory.js"></script>
+  </body>
+</html>

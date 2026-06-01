@@ -12,6 +12,7 @@ Thumbs.db
 chrome-profiles/
 profiles/
 user-data/
+data/uploads/
 
 # Build output
 dist/
